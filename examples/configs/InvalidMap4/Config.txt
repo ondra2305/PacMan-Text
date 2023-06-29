@@ -1,0 +1,3 @@
+configName=InvalidMap4
+map=Maze.txt
+saveFile=Save

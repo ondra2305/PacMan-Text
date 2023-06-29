@@ -1,0 +1,8 @@
+configName=Default
+map=Maze.txt
+saveFile=Save
+ghostSpeed=-69
+pacManSpeed=0
+ghostHuntingModeDuration=10
+bonusProbability=0.1
+amountOfLives=1

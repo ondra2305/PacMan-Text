@@ -1,0 +1,8 @@
+configName=Miss
+map=Maze.txt
+saveFile=Save
+ghostSpeed=1.0
+pacManSpeed=1.0
+ghostHuntingModeDuration=10
+bonusProbability=0.1
+amountOfLives=3

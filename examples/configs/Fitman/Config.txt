@@ -1,0 +1,8 @@
+configName=Fitman
+map=Maze.txt
+saveFile=Save
+ghostSpeed=2.0
+pacManSpeed=3.0
+ghostHuntingModeDuration=5
+bonusProbability=0.01
+amountOfLives=1
