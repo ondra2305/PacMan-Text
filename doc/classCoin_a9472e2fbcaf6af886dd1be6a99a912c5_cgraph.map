@@ -1,0 +1,4 @@
+<map id="Coin::interactWith" name="Coin::interactWith">
+<area shape="rect" id="node1" title="Interacts with another object." alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node2" href="$classGamePhase.html#a337c0a04d2c1d159ff9a98e99e11116a" title="Returns the current level." alt="" coords="192,5,356,32"/>
+</map>

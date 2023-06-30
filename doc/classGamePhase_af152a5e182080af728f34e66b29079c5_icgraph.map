@@ -1,0 +1,13 @@
+<map id="GamePhase::setPhase" name="GamePhase::setPhase">
+<area shape="rect" id="node1" title="Sets the current game phase." alt="" coords="420,228,587,255"/>
+<area shape="rect" id="node2" href="$classGame.html#a4c2a7ead717a4c13f1ffddafd11e17c8" title="Initializes the game, loading config, and the map." alt="" coords="195,51,359,78"/>
+<area shape="rect" id="node3" href="$classGame.html#a2a30c89761624ee64cd7acb147aaf89c" title="Starts the game." alt="" coords="20,14,119,40"/>
+<area shape="rect" id="node4" href="$classGame.html#a1118c369ae5b2fe433aac540cb32d187" title="Starts the game with a new map." alt="" coords="5,76,133,103"/>
+<area shape="rect" id="node5" href="$classCherry.html#aaf41373bb1fe88172648ce26bb54c5ec" title="Interacts with another object." alt="" coords="201,152,353,179"/>
+<area shape="rect" id="node6" href="$classGhost.html#a835ab7beec9ae0515085e479fcd2b1c6" title="Interacts with another object." alt="" coords="203,203,351,230"/>
+<area shape="rect" id="node7" href="$classGame.html#a58272899c822e102edfee50a5547612f" title="Moves the player in given direction." alt="" coords="203,254,350,280"/>
+<area shape="rect" id="node8" href="$classGamePhase.html#a6ebc97f0a4514c9d0689009a0e7bd48c" title="Removes an item from the remaining items." alt="" coords="183,304,371,331"/>
+<area shape="rect" id="node9" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="12,355,127,382"/>
+<area shape="rect" id="node10" href="$classPlayer.html#abc005b0707ae63f395b33d79a876a453" title="Updates the object." alt="" coords="219,406,335,432"/>
+<area shape="rect" id="node11" href="$classGame.html#a9f8150e56d9f2c53d172ef0443630de7" title="Updates the game phase timer." alt="" coords="181,456,372,483"/>
+</map>

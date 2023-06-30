@@ -1,0 +1,11 @@
+<map id="src/Map.h" name="src/Map.h">
+<area shape="rect" id="node1" title="Class for handling the game map." alt="" coords="215,5,301,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="426,229,485,256"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,229,68,256"/>
+<area shape="rect" id="node4" href="$Window_8h.html" title="Class for handling ncurses windows." alt="" coords="215,80,301,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="75,155,159,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="183,155,258,181"/>
+<area shape="rect" id="node7" href="$Enums_8h.html" title=" " alt="" coords="289,229,368,256"/>
+<area shape="rect" id="node9" href="$Helpers_8h.html" title=" " alt="" coords="333,155,417,181"/>
+<area shape="rect" id="node8" title=" " alt="" coords="299,304,359,331"/>
+</map>

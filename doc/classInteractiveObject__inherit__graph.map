@@ -1,0 +1,8 @@
+<map id="InteractiveObject" name="InteractiveObject">
+<area shape="rect" id="node1" title=" " alt="" coords="96,80,231,107"/>
+<area shape="rect" id="node3" href="$classCherry.html" title=" " alt="" coords="5,155,71,181"/>
+<area shape="rect" id="node4" href="$classCoin.html" title=" " alt="" coords="95,155,146,181"/>
+<area shape="rect" id="node5" href="$classTeleport.html" title=" " alt="" coords="170,155,245,181"/>
+<area shape="rect" id="node6" href="$classWall.html" title=" " alt="" coords="269,155,319,181"/>
+<area shape="rect" id="node2" href="$classGameObject.html" title=" " alt="" coords="112,5,215,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Config::getPath" name="Config::getPath">
+<area shape="rect" id="node1" title="Gets the map file path." alt="" coords="393,56,513,83"/>
+<area shape="rect" id="node2" href="$classGame.html#aa2d938aa918268060e63980c7efd86f8" title="Ends the game." alt="" coords="217,5,310,32"/>
+<area shape="rect" id="node4" href="$classGame.html#a4c2a7ead717a4c13f1ffddafd11e17c8" title="Initializes the game, loading config, and the map." alt="" coords="181,56,345,83"/>
+<area shape="rect" id="node6" href="$classGame.html#a1118c369ae5b2fe433aac540cb32d187" title="Starts the game with a new map." alt="" coords="5,107,133,133"/>
+<area shape="rect" id="node3" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="12,5,127,32"/>
+<area shape="rect" id="node5" href="$classGame.html#a2a30c89761624ee64cd7acb147aaf89c" title="Starts the game." alt="" coords="20,56,119,83"/>
+</map>

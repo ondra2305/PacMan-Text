@@ -1,0 +1,7 @@
+<map id="MovingObject::setSpeed" name="MovingObject::setSpeed">
+<area shape="rect" id="node1" title="Sets the speed of the object." alt="" coords="289,93,469,120"/>
+<area shape="rect" id="node2" href="$structChaseBehavior.html#a8d61f5095bcec808c915637ece4a1f31" title="Handles the behavior of the enemy when changing the game phase." alt="" coords="8,5,239,32"/>
+<area shape="rect" id="node3" href="$structFrightenedBehavior.html#ab92da9144a40747698da6f7c8476aabd" title="Handles the behavior of the enemy when changing the game phase." alt="" coords="49,57,198,98"/>
+<area shape="rect" id="node4" href="$structScatterBehavior.html#a71bec433e6f46246abc648cc14a0a9af" title="Handles the behavior of the enemy when changing the game phase." alt="" coords="5,123,241,149"/>
+<area shape="rect" id="node5" href="$classPlayer.html#abc005b0707ae63f395b33d79a876a453" title="Updates the object." alt="" coords="65,173,181,200"/>
+</map>

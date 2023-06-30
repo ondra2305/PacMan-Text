@@ -1,24 +1,19 @@
-LOGIN = svoboo30
+FILENAME = PacMan
 CXX = g++
-FLAGS = -std=c++17 -O3 -fsanitize=address -Wall -Werror -pedantic
+FLAGS = -std=c++17 -O3 -fsanitize=undefined -Wall -Werror -pedantic
 LIBS = -lncurses
-#LIBS = -L/lib/ -lncurses_g
-#EXTRA_FLAGS = -s -fno-rtti -flto
-
-ZIP = Makefile Doxyfile DOCUMENTATION.md zadani.txt prohlaseni.txt \
-  .gitignore $(wildcard examples/*) $(wildcard src/*)
 
 SOURCES = $(wildcard src/*.cpp)
 OBJECTS = $(patsubst src/%.cpp, build/%.o, ${SOURCES})
 DEPS = $(patsubst src/%.cpp, build/%.dep, ${SOURCES})
 
-.PHONY: all compile run valgrind doc clean count zip
+.PHONY: all compile run doc clean
 
 all: compile doc
 
-compile: ${LOGIN}
+compile: ${FILENAME}
 
-${LOGIN}: ${OBJECTS}
+${FILENAME}: ${OBJECTS}
 	@mkdir -p build/
 	${CXX} ${FLAGS} $^ ${LIBS} -o $@
 
@@ -27,32 +22,16 @@ build/%.o: src/%.cpp
 	${CXX} ${FLAGS} -c $< -o $@ ${LIBS}
 
 run: compile
-	./${LOGIN}
-
-valgrind: compile
-	valgrind -s --leak-check=full ./${LOGIN}
+	./${FILENAME}
 
 doc: doc/index.html
 
 doc/index.html: Doxyfile DOCUMENTATION.md $(wildcard src/*)
 	doxygen Doxyfile
 
-count:
-	wc -l src/*
-
 clean:
 	rm -rf build doc
-	rm -f ${LOGIN} ${LOGIN}.zip
-
-zip: ${LOGIN}.zip
-
-${LOGIN}.zip: ${ZIP}
-	rm -rf tmp/
-	rm -f $@
-	mkdir -p tmp/${LOGIN}/
-	cp --parents -r $^ tmp/${LOGIN}/
-	cd tmp/ && zip -r ../$@ ${LOGIN}/
-	rm -rf tmp/
+	rm -f ${FILENAME} ${FILENAME}.zip
 
 build/%.dep: src/%.cpp src/*
 	@mkdir -p build/

@@ -1,0 +1,7 @@
+<map id="Map::getSize" name="Map::getSize">
+<area shape="rect" id="node1" title="Gets the map size." alt="" coords="428,56,535,83"/>
+<area shape="rect" id="node2" href="$classPlayer.html#aa4002becf320cc56377ecda8622a1ba3" title="Returns the calculated next move of the object." alt="" coords="215,5,374,32"/>
+<area shape="rect" id="node3" href="$structScatterBehavior.html#abf893e24e51acddd4c3e1cd57e262762" title="Gets the ideal direction to move the enemy." alt="" coords="209,56,380,83"/>
+<area shape="rect" id="node4" href="$classGhost.html#a148ba3ee3c09025057a85025e2b74f81" title=" " alt="" coords="233,107,356,133"/>
+<area shape="rect" id="node5" href="$classGhost.html#a8f00182b9e19aec6cab0f795ee8dd5ae" title="Returns the calculated next move of the object." alt="" coords="5,107,161,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Map::loadFromString" name="Map::loadFromString">
+<area shape="rect" id="node1" title="Loads the map from a string." alt="" coords="181,5,339,32"/>
+<area shape="rect" id="node2" href="$classGame.html#a1118c369ae5b2fe433aac540cb32d187" title="Starts the game with a new map." alt="" coords="5,5,133,32"/>
+</map>

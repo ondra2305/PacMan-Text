@@ -1,0 +1,9 @@
+<map id="Window::printCharAt" name="Window::printCharAt">
+<area shape="rect" id="node1" title="Prints character at given position, default color." alt="" coords="549,132,704,159"/>
+<area shape="rect" id="node2" href="$classGame.html#a6d54497ce3a66f6dd45eacfdccc8d0bd" title="Draws the game." alt="" coords="400,81,501,108"/>
+<area shape="rect" id="node6" href="$classGame.html#a127294d56e1c963bf1a12d2b95a7a0c3" title="Returns all moving objects to their starting positions." alt="" coords="181,132,352,159"/>
+<area shape="rect" id="node7" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="12,132,127,159"/>
+<area shape="rect" id="node3" href="$classGame.html#a4c2a7ead717a4c13f1ffddafd11e17c8" title="Initializes the game, loading config, and the map." alt="" coords="185,31,349,57"/>
+<area shape="rect" id="node4" href="$classGame.html#a2a30c89761624ee64cd7acb147aaf89c" title="Starts the game." alt="" coords="20,5,119,32"/>
+<area shape="rect" id="node5" href="$classGame.html#a1118c369ae5b2fe433aac540cb32d187" title="Starts the game with a new map." alt="" coords="5,56,133,83"/>
+</map>

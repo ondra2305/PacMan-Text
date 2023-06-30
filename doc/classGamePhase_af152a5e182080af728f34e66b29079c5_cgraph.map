@@ -1,0 +1,4 @@
+<map id="GamePhase::setPhase" name="GamePhase::setPhase">
+<area shape="rect" id="node1" title="Sets the current game phase." alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node2" href="$classGamePhase.html#a097fcd119e1cce98533b731f7e6ae53d" title="Sets the time of the current phase." alt="" coords="220,5,420,32"/>
+</map>

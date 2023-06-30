@@ -1,0 +1,21 @@
+<map id="GameManager::start" name="GameManager::start">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,161,209"/>
+<area shape="rect" id="node2" href="$classWindow.html#a21910d98970e829ac1aa67db65a53476" title="Exits ncurses window." alt="" coords="257,5,364,32"/>
+<area shape="rect" id="node3" href="$classWindow.html#a56e7061bfcf6df5725b61e3f0399e865" title="Gets the user choice from the main menu." alt="" coords="237,107,384,133"/>
+<area shape="rect" id="node7" href="$classWindow.html#a2238e5489102fe2a77e7898a07dc37b5" title="Gets text input from the user." alt="" coords="745,259,879,285"/>
+<area shape="rect" id="node8" href="$classGameManager.html#a53965fe19bf3351541159ce74608844e" title=" " alt="" coords="209,157,412,184"/>
+<area shape="rect" id="node9" href="$classWindow.html#a4d8c7f316ef9e8a4488d00c430957c16" title="Initializes ncurses window." alt="" coords="259,208,362,235"/>
+<area shape="rect" id="node11" href="$classConfig.html#ab8b24da021cd9ad9ca092749292ca6ed" title="Loads the config from a file." alt="" coords="241,309,381,336"/>
+<area shape="rect" id="node13" href="$classMap.html#a2657d897204aaedba0e8e4f01b2e1efc" title="Loads the map from a file." alt="" coords="502,360,617,387"/>
+<area shape="rect" id="node19" href="$classWindow.html#aba37c5e32e43d21a46968fd8ada1d327" title="Prints the message to the current window." alt="" coords="727,81,897,108"/>
+<area shape="rect" id="node4" href="$classWindow.html#ac9718717327b190f444c9fe3955477a7" title="Creates the main menu window." alt="" coords="707,183,917,209"/>
+<area shape="rect" id="node6" href="$classWindow.html#abde910f5e4b012211f4cd0425d0bece1" title="Draws the menu options." alt="" coords="460,107,659,133"/>
+<area shape="rect" id="node5" href="$classWindow.html#a07c2b4d065cbcb397eafc1a27a337bb7" title="Clears the current window." alt="" coords="965,183,1152,209"/>
+<area shape="rect" id="node10" href="$classWindow.html#a4fbacbbec283653b5500f881c1f7cd7f" title="Draws the main menu." alt="" coords="485,208,634,235"/>
+<area shape="rect" id="node12" href="$classConfig.html#a62c7c2d485cb30374271dba0eafe63c8" title="Gets any value from the config map." alt="" coords="495,309,623,336"/>
+<area shape="rect" id="node14" href="$classMap.html#ab1c2595a555457c0a764a0530b57c0f9" title="Helper function for validating map string." alt="" coords="744,360,880,387"/>
+<area shape="rect" id="node15" href="$classMap.html#a41b623a0d503b94bf8412ca06296ae1f" title="Helper function for finding crossroads." alt="" coords="981,360,1136,387"/>
+<area shape="rect" id="node17" href="$classMap.html#ae96ad32d3b1600cd41e4a1c3b6a30906" title="Checks if the map is traversable from the given position." alt="" coords="981,411,1137,437"/>
+<area shape="rect" id="node18" href="$classMap.html#ad35b3432f383ea258d0ed06fe937c3b9" title="Helper function for validating the map borders." alt="" coords="981,309,1136,336"/>
+<area shape="rect" id="node16" href="$classMap.html#a7d8219ae1c1ff2f45f7e11c5d03dcdb7" title="Checks if given coordinates are a crossroad." alt="" coords="1200,360,1335,387"/>
+</map>

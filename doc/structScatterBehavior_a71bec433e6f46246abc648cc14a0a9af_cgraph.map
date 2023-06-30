@@ -1,0 +1,6 @@
+<map id="ScatterBehavior::handleBehavior" name="ScatterBehavior::handleBehavior">
+<area shape="rect" id="node1" title="Handles the behavior of the enemy when changing the game phase." alt="" coords="5,56,241,83"/>
+<area shape="rect" id="node2" href="$classGameObject.html#a1e86160db20ef4c6ccadf5cfd05763bc" title="Resets the object color to default." alt="" coords="301,5,480,32"/>
+<area shape="rect" id="node3" href="$classMovingObject.html#a6866cb38b81682fc594939196117e2e3" title="Sets the invincibility of the object." alt="" coords="289,56,492,83"/>
+<area shape="rect" id="node4" href="$classMovingObject.html#a0fa9f24bfcb0d40d1af3ee26dedfa47d" title="Sets the speed of the object." alt="" coords="301,107,481,133"/>
+</map>

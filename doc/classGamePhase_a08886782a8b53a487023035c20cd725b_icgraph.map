@@ -1,0 +1,5 @@
+<map id="GamePhase::addPhaseTime" name="GamePhase::addPhaseTime">
+<area shape="rect" id="node1" title="Adds time to the current phase." alt="" coords="407,5,611,32"/>
+<area shape="rect" id="node2" href="$classGame.html#a9f8150e56d9f2c53d172ef0443630de7" title="Updates the game phase timer." alt="" coords="168,5,359,32"/>
+<area shape="rect" id="node3" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="5,5,120,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="GamePhase::getPhase" name="GamePhase::getPhase">
+<area shape="rect" id="node1" title="Returns the current game phase." alt="" coords="407,107,575,133"/>
+<area shape="rect" id="node2" href="$classGame.html#a58272899c822e102edfee50a5547612f" title="Moves the player in given direction." alt="" coords="190,5,337,32"/>
+<area shape="rect" id="node3" href="$classGhost.html#a16b4f0601026b19a1f4b06e68059372a" title="Updates the object." alt="" coords="207,56,320,83"/>
+<area shape="rect" id="node4" href="$classPlayer.html#abc005b0707ae63f395b33d79a876a453" title="Updates the object." alt="" coords="205,107,321,133"/>
+<area shape="rect" id="node5" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="5,183,120,209"/>
+<area shape="rect" id="node6" href="$classGame.html#a9f8150e56d9f2c53d172ef0443630de7" title="Updates the game phase timer." alt="" coords="168,208,359,235"/>
+</map>

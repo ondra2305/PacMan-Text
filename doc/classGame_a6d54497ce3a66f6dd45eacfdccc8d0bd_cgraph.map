@@ -1,0 +1,9 @@
+<map id="Game::draw" name="Game::draw">
+<area shape="rect" id="node1" title="Draws the game." alt="" coords="5,107,107,133"/>
+<area shape="rect" id="node2" href="$classGamePhase.html#a337c0a04d2c1d159ff9a98e99e11116a" title="Returns the current level." alt="" coords="191,5,355,32"/>
+<area shape="rect" id="node3" href="$classGamePhase.html#a1e01dd9cbefce12ad832102c3a9ed3a2" title="Returns the number of remaining items." alt="" coords="155,56,391,83"/>
+<area shape="rect" id="node4" href="$classWindow.html#aaa279ff498c917ba2535b26e5f396c7c" title="Prints character at given position, default color." alt="" coords="195,107,350,133"/>
+<area shape="rect" id="node5" href="$classWindow.html#a7f8803b32163553cf314fa01b703c9a8" title="Prints the game UI." alt="" coords="210,157,335,184"/>
+<area shape="rect" id="node7" href="$classWindow.html#a3c38bfdaf7cb6ebcfdbcb40916a72bf7" title="Refreshes the current window." alt="" coords="439,208,591,235"/>
+<area shape="rect" id="node6" href="$classWindow.html#aad6d9b11314512a7fbc775a3fef9ca1c" title="Helper function for printing lives." alt="" coords="442,157,587,184"/>
+</map>

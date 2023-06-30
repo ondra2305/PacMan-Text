@@ -1,0 +1,4 @@
+<map id="Window::printMessage" name="Window::printMessage">
+<area shape="rect" id="node1" title="Prints the message to the current window." alt="" coords="5,5,175,32"/>
+<area shape="rect" id="node2" href="$classWindow.html#a07c2b4d065cbcb397eafc1a27a337bb7" title="Clears the current window." alt="" coords="223,5,409,32"/>
+</map>

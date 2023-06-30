@@ -1,0 +1,4 @@
+<map id="Map::findCrossroads" name="Map::findCrossroads">
+<area shape="rect" id="node1" title="Helper function for finding crossroads." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node2" href="$classMap.html#a7d8219ae1c1ff2f45f7e11c5d03dcdb7" title="Checks if given coordinates are a crossroad." alt="" coords="208,5,343,32"/>
+</map>

@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['savemap_446',['saveMap',['../classMap.html#a273496375c910340e3d76d777052b274',1,'Map']]],
+  ['savescores_447',['saveScores',['../classLeaderboard.html#aa277b90da39dbbfe9088a8bffb9ddb59',1,'Leaderboard']]],
+  ['scatterbehavior_448',['ScatterBehavior',['../structScatterBehavior.html#a64c420533ddae516d298305ffd0dc669',1,'ScatterBehavior']]],
+  ['setbehavior_449',['setBehavior',['../classGhost.html#aab141ab164930973d98258e7f671dc5a',1,'Ghost']]],
+  ['setcolor_450',['setColor',['../classGameObject.html#a5c863188a52395ff7a0d2a508c06c2fa',1,'GameObject']]],
+  ['setdirection_451',['setDirection',['../classMovingObject.html#aa39638577357edb46dff375c92aadd97',1,'MovingObject']]],
+  ['setinvincible_452',['setInvincible',['../classMovingObject.html#a6866cb38b81682fc594939196117e2e3',1,'MovingObject']]],
+  ['setlives_453',['setLives',['../classMovingObject.html#a5a3d29506865eca956073f989f6c901a',1,'MovingObject']]],
+  ['setnickname_454',['setNickname',['../classMovingObject.html#a1a79cc924d00849783c5d647a7390458',1,'MovingObject']]],
+  ['setphase_455',['setPhase',['../classGamePhase.html#af152a5e182080af728f34e66b29079c5',1,'GamePhase']]],
+  ['setphasetime_456',['setPhaseTime',['../classGamePhase.html#a097fcd119e1cce98533b731f7e6ae53d',1,'GamePhase']]],
+  ['setpos_457',['setPos',['../classGameObject.html#aa376bda79b38c18667226ef1d6a66da3',1,'GameObject']]],
+  ['setprevdirection_458',['setPrevDirection',['../classEnemyBehavior.html#accf0b3c7152b2828a7685125a44ed3e2',1,'EnemyBehavior']]],
+  ['setscore_459',['setScore',['../classMovingObject.html#a74c908283055f18922d1a5e6872f1df2',1,'MovingObject']]],
+  ['setspeed_460',['setSpeed',['../classMovingObject.html#a0fa9f24bfcb0d40d1af3ee26dedfa47d',1,'MovingObject']]],
+  ['start_461',['start',['../classGame.html#a2a30c89761624ee64cd7acb147aaf89c',1,'Game::start()'],['../classGameManager.html#a8460b2f4f44c19dd405e4163fe6cb5cf',1,'GameManager::start()']]],
+  ['startnew_462',['startNew',['../classGame.html#a1118c369ae5b2fe433aac540cb32d187',1,'Game']]]
+];

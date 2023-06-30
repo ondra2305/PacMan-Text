@@ -1,0 +1,6 @@
+<map id="Window::getChoice" name="Window::getChoice">
+<area shape="rect" id="node1" title="Gets the user choice from the main menu." alt="" coords="5,31,152,57"/>
+<area shape="rect" id="node2" href="$classWindow.html#ac9718717327b190f444c9fe3955477a7" title="Creates the main menu window." alt="" coords="200,5,411,32"/>
+<area shape="rect" id="node4" href="$classWindow.html#abde910f5e4b012211f4cd0425d0bece1" title="Draws the menu options." alt="" coords="206,56,405,83"/>
+<area shape="rect" id="node3" href="$classWindow.html#a07c2b4d065cbcb397eafc1a27a337bb7" title="Clears the current window." alt="" coords="459,5,645,32"/>
+</map>

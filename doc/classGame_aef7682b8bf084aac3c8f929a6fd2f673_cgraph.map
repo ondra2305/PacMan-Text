@@ -1,0 +1,33 @@
+<map id="Game::update" name="Game::update">
+<area shape="rect" id="node1" title="Updates the game state." alt="" coords="5,588,120,615"/>
+<area shape="rect" id="node2" href="$classGamePhase.html#a2597fc4aa3837ecc9146f29b18840855" title="Adds an item to the remaining items." alt="" coords="182,107,345,133"/>
+<area shape="rect" id="node3" href="$classLeaderboard.html#a24c17b1bdb86b112887b0ecdd3c61fa3" title="Adds a score to the leaderboard." alt="" coords="426,5,597,32"/>
+<area shape="rect" id="node4" href="$classGame.html#a4594c5131996a9b8dc8d475435258461" title="Checks for collisions at given position for given object." alt="" coords="175,208,352,235"/>
+<area shape="rect" id="node5" href="$classWindow.html#a07c2b4d065cbcb397eafc1a27a337bb7" title="Clears the current window." alt="" coords="948,309,1135,336"/>
+<area shape="rect" id="node6" href="$classWindow.html#a2a15428125d31769c0c68ddcd7874d1d" title="Displays the leaderboard." alt="" coords="407,56,616,83"/>
+<area shape="rect" id="node7" href="$classGame.html#a6d54497ce3a66f6dd45eacfdccc8d0bd" title="Draws the game." alt="" coords="461,664,562,691"/>
+<area shape="rect" id="node8" href="$classGamePhase.html#a337c0a04d2c1d159ff9a98e99e11116a" title="Returns the current level." alt="" coords="700,816,864,843"/>
+<area shape="rect" id="node9" href="$classGamePhase.html#a1e01dd9cbefce12ad832102c3a9ed3a2" title="Returns the number of remaining items." alt="" coords="664,537,900,564"/>
+<area shape="rect" id="node10" href="$classWindow.html#aaa279ff498c917ba2535b26e5f396c7c" title="Prints character at given position, default color." alt="" coords="705,715,859,741"/>
+<area shape="rect" id="node11" href="$classWindow.html#a7f8803b32163553cf314fa01b703c9a8" title="Prints the game UI." alt="" coords="719,613,845,640"/>
+<area shape="rect" id="node14" href="$classGame.html#aa2d938aa918268060e63980c7efd86f8" title="Ends the game." alt="" coords="217,309,310,336"/>
+<area shape="rect" id="node19" href="$classLeaderboard.html#a03943d489323ac2134118a5a56910e76" title="Gets the top scores." alt="" coords="413,411,610,437"/>
+<area shape="rect" id="node23" href="$classGamePhase.html#a4e546a7d0a52cbd70612880d61e5f55c" title="Returns the current game phase." alt="" coords="427,867,595,893"/>
+<area shape="rect" id="node24" href="$classGamePhase.html#a1da768fefb7d680f852746663576c390" title="Increases the level." alt="" coords="177,867,349,893"/>
+<area shape="rect" id="node25" href="$classGamePhase.html#a6ebc97f0a4514c9d0689009a0e7bd48c" title="Removes an item from the remaining items." alt="" coords="169,1031,357,1057"/>
+<area shape="rect" id="node26" href="$classGamePhase.html#af152a5e182080af728f34e66b29079c5" title="Sets the current game phase." alt="" coords="428,1120,595,1147"/>
+<area shape="rect" id="node28" href="$classGame.html#a127294d56e1c963bf1a12d2b95a7a0c3" title="Returns all moving objects to their starting positions." alt="" coords="178,664,349,691"/>
+<area shape="rect" id="node29" href="$classGame.html#a9f8150e56d9f2c53d172ef0443630de7" title="Updates the game phase timer." alt="" coords="168,968,359,995"/>
+<area shape="rect" id="node13" href="$classWindow.html#a3c38bfdaf7cb6ebcfdbcb40916a72bf7" title="Refreshes the current window." alt="" coords="965,664,1117,691"/>
+<area shape="rect" id="node12" href="$classWindow.html#aad6d9b11314512a7fbc775a3fef9ca1c" title="Helper function for printing lives." alt="" coords="969,613,1114,640"/>
+<area shape="rect" id="node15" href="$classMap.html#a7ded655c7db0e9d72816430b4f2c83a5" title="Clears the map." alt="" coords="723,208,841,235"/>
+<area shape="rect" id="node16" href="$classGame.html#a66e2ecb02f046b0c17922a4255720e5a" title="Ends the game on error." alt="" coords="447,259,576,285"/>
+<area shape="rect" id="node17" href="$classWindow.html#aba37c5e32e43d21a46968fd8ada1d327" title="Prints the message to the current window." alt="" coords="697,309,867,336"/>
+<area shape="rect" id="node18" href="$classConfig.html#a683f3adeacbde8622e8c46cc2f9dee25" title="Gets the map file path." alt="" coords="451,107,571,133"/>
+<area shape="rect" id="node20" href="$classConfig.html#a62c7c2d485cb30374271dba0eafe63c8" title="Gets any value from the config map." alt="" coords="447,613,575,640"/>
+<area shape="rect" id="node21" href="$classLeaderboard.html#aa277b90da39dbbfe9088a8bffb9ddb59" title="Saves the scores to a file." alt="" coords="419,157,604,184"/>
+<area shape="rect" id="node22" href="$classLeaderboard.html#a0535aae610bd8dc1e82e44a996190221" title="Writes a value to binary save file." alt="" coords="710,157,854,184"/>
+<area shape="rect" id="node27" href="$classGamePhase.html#a097fcd119e1cce98533b731f7e6ae53d" title="Sets the time of the current phase." alt="" coords="682,1069,882,1096"/>
+<area shape="rect" id="node30" href="$classGamePhase.html#a08886782a8b53a487023035c20cd725b" title="Adds time to the current phase." alt="" coords="409,968,613,995"/>
+<area shape="rect" id="node31" href="$classGamePhase.html#a03d6ddc222525f8321d4d65c683eedce" title="Returns the time of the current phase." alt="" coords="411,1069,612,1096"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="Window::clearCurrentWin" name="Window::clearCurrentWin">
+<area shape="rect" id="node1" title="Clears the current window." alt="" coords="1023,323,1209,349"/>
+<area shape="rect" id="node2" href="$classWindow.html#ac9718717327b190f444c9fe3955477a7" title="Creates the main menu window." alt="" coords="764,56,975,83"/>
+<area shape="rect" id="node8" href="$classWindow.html#a2a15428125d31769c0c68ddcd7874d1d" title="Displays the leaderboard." alt="" coords="507,563,716,589"/>
+<area shape="rect" id="node9" href="$classGame.html#aa2d938aa918268060e63980c7efd86f8" title="Ends the game." alt="" coords="339,512,432,539"/>
+<area shape="rect" id="node10" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="129,563,243,589"/>
+<area shape="rect" id="node11" href="$classGame.html#a66e2ecb02f046b0c17922a4255720e5a" title="Ends the game on error." alt="" coords="547,411,676,437"/>
+<area shape="rect" id="node13" href="$classGame.html#a1118c369ae5b2fe433aac540cb32d187" title="Starts the game with a new map." alt="" coords="321,233,449,260"/>
+<area shape="rect" id="node14" href="$classWindow.html#a2238e5489102fe2a77e7898a07dc37b5" title="Gets text input from the user." alt="" coords="802,208,937,235"/>
+<area shape="rect" id="node15" href="$classGame.html#a4c2a7ead717a4c13f1ffddafd11e17c8" title="Initializes the game, loading config, and the map." alt="" coords="529,208,693,235"/>
+<area shape="rect" id="node16" href="$classWindow.html#aba37c5e32e43d21a46968fd8ada1d327" title="Prints the message to the current window." alt="" coords="785,323,954,349"/>
+<area shape="rect" id="node3" href="$classWindow.html#a4fbacbbec283653b5500f881c1f7cd7f" title="Draws the main menu." alt="" coords="537,5,686,32"/>
+<area shape="rect" id="node7" href="$classWindow.html#a56e7061bfcf6df5725b61e3f0399e865" title="Gets the user choice from the main menu." alt="" coords="312,81,459,108"/>
+<area shape="rect" id="node4" href="$classWindow.html#a4d8c7f316ef9e8a4488d00c430957c16" title="Initializes ncurses window." alt="" coords="334,19,437,45"/>
+<area shape="rect" id="node5" href="$classGameManager.html#a8460b2f4f44c19dd405e4163fe6cb5cf" title=" " alt="" coords="108,132,264,159"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,132,60,159"/>
+<area shape="rect" id="node12" href="$classGame.html#a2a30c89761624ee64cd7acb147aaf89c" title="Starts the game." alt="" coords="336,360,435,387"/>
+</map>

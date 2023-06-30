@@ -1,0 +1,4 @@
+<map id="Game::updatePhaseTimer" name="Game::updatePhaseTimer">
+<area shape="rect" id="node1" title="Updates the game phase timer." alt="" coords="168,5,359,32"/>
+<area shape="rect" id="node2" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="5,5,120,32"/>
+</map>

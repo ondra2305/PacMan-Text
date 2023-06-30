@@ -1,0 +1,14 @@
+<map id="Ghost::getNextMove" name="Ghost::getNextMove">
+<area shape="rect" id="node1" title="Returns the calculated next move of the object." alt="" coords="5,157,161,184"/>
+<area shape="rect" id="node2" href="$classMovingObject.html#aeffcdeb60f4838b3c2c2529146ab05cc" title="Returns the direction of the object." alt="" coords="210,5,410,32"/>
+<area shape="rect" id="node3" href="$classGhost.html#ac3ac2d664d53be9c655968bef168fb4d" title=" " alt="" coords="209,56,411,83"/>
+<area shape="rect" id="node4" href="$classMap.html#a3b01db567592d31b0f862e84bf687c75" title="Gets the nearest ghost cage exit." alt="" coords="459,145,685,172"/>
+<area shape="rect" id="node5" href="$classMap.html#a46b5bb95de19053da1bc8ff114a0c267" title="Checks if there is a crossroad at the given coordinates." alt="" coords="236,157,384,184"/>
+<area shape="rect" id="node6" href="$classMap.html#a83e780cb2abc7b2c5ce61910d7d667d1" title="Checks if given position is in ghost cage." alt="" coords="234,208,386,235"/>
+<area shape="rect" id="node7" href="$Helpers_8cpp.html#a8f135720b7459904552189a30f57fc34" title=" " alt="" coords="241,259,379,285"/>
+<area shape="rect" id="node8" href="$classGhost.html#a148ba3ee3c09025057a85025e2b74f81" title=" " alt="" coords="249,309,371,336"/>
+<area shape="rect" id="node9" href="$Helpers_8cpp.html#a98742d5d9d01be6137fb4e7005f89248" title=" " alt="" coords="478,233,666,260"/>
+<area shape="rect" id="node10" href="$classMap.html#a3fa542ef9ff897893adc5a290b224114" title="Gets the map size." alt="" coords="519,284,625,311"/>
+<area shape="rect" id="node11" href="$classMap.html#a9daf0b81095fe118f2e52fd783ea1bf8" title="Checks if there is a wall at the given coordinates." alt="" coords="517,335,627,361"/>
+<area shape="rect" id="node12" href="$classGhost.html#aa6cee6d5199e728031a07f703b116a67" title="Moves the object in the given direction." alt="" coords="519,385,625,412"/>
+</map>

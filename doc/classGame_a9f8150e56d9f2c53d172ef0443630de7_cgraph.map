@@ -1,0 +1,10 @@
+<map id="Game::updatePhaseTimer" name="Game::updatePhaseTimer">
+<area shape="rect" id="node1" title="Updates the game phase timer." alt="" coords="5,157,196,184"/>
+<area shape="rect" id="node2" href="$classGamePhase.html#a08886782a8b53a487023035c20cd725b" title="Adds time to the current phase." alt="" coords="244,5,448,32"/>
+<area shape="rect" id="node3" href="$classGamePhase.html#a337c0a04d2c1d159ff9a98e99e11116a" title="Returns the current level." alt="" coords="264,56,428,83"/>
+<area shape="rect" id="node4" href="$classGamePhase.html#a4e546a7d0a52cbd70612880d61e5f55c" title="Returns the current game phase." alt="" coords="262,107,430,133"/>
+<area shape="rect" id="node5" href="$classGamePhase.html#a03d6ddc222525f8321d4d65c683eedce" title="Returns the time of the current phase." alt="" coords="245,157,447,184"/>
+<area shape="rect" id="node6" href="$classConfig.html#a62c7c2d485cb30374271dba0eafe63c8" title="Gets any value from the config map." alt="" coords="282,208,410,235"/>
+<area shape="rect" id="node7" href="$classGamePhase.html#af152a5e182080af728f34e66b29079c5" title="Sets the current game phase." alt="" coords="263,259,429,285"/>
+<area shape="rect" id="node8" href="$classGamePhase.html#a097fcd119e1cce98533b731f7e6ae53d" title="Sets the time of the current phase." alt="" coords="496,284,696,311"/>
+</map>

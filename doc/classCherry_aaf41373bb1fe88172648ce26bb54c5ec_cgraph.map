@@ -1,0 +1,6 @@
+<map id="Cherry::interactWith" name="Cherry::interactWith">
+<area shape="rect" id="node1" title="Interacts with another object." alt="" coords="5,31,157,57"/>
+<area shape="rect" id="node2" href="$classGamePhase.html#a337c0a04d2c1d159ff9a98e99e11116a" title="Returns the current level." alt="" coords="207,5,371,32"/>
+<area shape="rect" id="node3" href="$classGamePhase.html#af152a5e182080af728f34e66b29079c5" title="Sets the current game phase." alt="" coords="205,56,372,83"/>
+<area shape="rect" id="node4" href="$classGamePhase.html#a097fcd119e1cce98533b731f7e6ae53d" title="Sets the time of the current phase." alt="" coords="420,56,620,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Window::createMenuWindow" name="Window::createMenuWindow">
+<area shape="rect" id="node1" title="Creates the main menu window." alt="" coords="5,5,216,32"/>
+<area shape="rect" id="node2" href="$classWindow.html#a07c2b4d065cbcb397eafc1a27a337bb7" title="Clears the current window." alt="" coords="264,5,451,32"/>
+</map>

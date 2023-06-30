@@ -1,0 +1,6 @@
+<map id="Window::init" name="Window::init">
+<area shape="rect" id="node1" title="Initializes ncurses window." alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node2" href="$classWindow.html#a4fbacbbec283653b5500f881c1f7cd7f" title="Draws the main menu." alt="" coords="156,5,305,32"/>
+<area shape="rect" id="node3" href="$classWindow.html#ac9718717327b190f444c9fe3955477a7" title="Creates the main menu window." alt="" coords="353,5,564,32"/>
+<area shape="rect" id="node4" href="$classWindow.html#a07c2b4d065cbcb397eafc1a27a337bb7" title="Clears the current window." alt="" coords="612,5,799,32"/>
+</map>

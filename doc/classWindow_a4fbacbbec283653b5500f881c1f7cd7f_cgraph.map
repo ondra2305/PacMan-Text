@@ -1,0 +1,5 @@
+<map id="Window::drawMenu" name="Window::drawMenu">
+<area shape="rect" id="node1" title="Draws the main menu." alt="" coords="5,5,155,32"/>
+<area shape="rect" id="node2" href="$classWindow.html#ac9718717327b190f444c9fe3955477a7" title="Creates the main menu window." alt="" coords="203,5,413,32"/>
+<area shape="rect" id="node3" href="$classWindow.html#a07c2b4d065cbcb397eafc1a27a337bb7" title="Clears the current window." alt="" coords="461,5,648,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="src/GameManager.h" name="src/GameManager.h">
+<area shape="rect" id="node1" title="Handles the game loop and game states." alt="" coords="93,5,245,32"/>
+<area shape="rect" id="node2" href="$GameManager_8cpp.html" title="Handles the game loop and game states." alt="" coords="5,80,172,107"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title="Main function, initializes the game manager." alt="" coords="196,80,301,107"/>
+</map>

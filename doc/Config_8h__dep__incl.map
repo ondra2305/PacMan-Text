@@ -1,0 +1,10 @@
+<map id="src/Config.h" name="src/Config.h">
+<area shape="rect" id="node1" title="Class for handling the game configuration." alt="" coords="150,5,249,32"/>
+<area shape="rect" id="node2" href="$Config_8cpp.html" title="Class for handling the game configuration." alt="" coords="5,80,119,107"/>
+<area shape="rect" id="node3" href="$Game_8cpp.html" title="Class for handling the game logic." alt="" coords="101,155,212,181"/>
+<area shape="rect" id="node4" href="$Game_8h.html" title="Class for handling the game logic." alt="" coords="194,80,290,107"/>
+<area shape="rect" id="node8" href="$Window_8cpp.html" title="Class for handling ncurses windows." alt="" coords="314,80,437,107"/>
+<area shape="rect" id="node5" href="$GameManager_8h.html" title="Handles the game loop and game states." alt="" coords="237,155,389,181"/>
+<area shape="rect" id="node6" href="$GameManager_8cpp.html" title="Handles the game loop and game states." alt="" coords="149,229,316,256"/>
+<area shape="rect" id="node7" href="$main_8cpp.html" title="Main function, initializes the game manager." alt="" coords="340,229,445,256"/>
+</map>

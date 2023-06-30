@@ -1,0 +1,8 @@
+<map id="Map::loadMap" name="Map::loadMap">
+<area shape="rect" id="node1" title="Loads the map from a file." alt="" coords="5,56,120,83"/>
+<area shape="rect" id="node2" href="$classMap.html#ab1c2595a555457c0a764a0530b57c0f9" title="Helper function for validating map string." alt="" coords="168,56,304,83"/>
+<area shape="rect" id="node3" href="$classMap.html#a41b623a0d503b94bf8412ca06296ae1f" title="Helper function for finding crossroads." alt="" coords="353,5,507,32"/>
+<area shape="rect" id="node5" href="$classMap.html#ae96ad32d3b1600cd41e4a1c3b6a30906" title="Checks if the map is traversable from the given position." alt="" coords="352,56,508,83"/>
+<area shape="rect" id="node6" href="$classMap.html#ad35b3432f383ea258d0ed06fe937c3b9" title="Helper function for validating the map borders." alt="" coords="353,107,507,133"/>
+<area shape="rect" id="node4" href="$classMap.html#a7d8219ae1c1ff2f45f7e11c5d03dcdb7" title="Checks if given coordinates are a crossroad." alt="" coords="556,5,691,32"/>
+</map>

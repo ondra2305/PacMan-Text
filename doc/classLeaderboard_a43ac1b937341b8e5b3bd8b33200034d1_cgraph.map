@@ -1,0 +1,5 @@
+<map id="Leaderboard::loadScores" name="Leaderboard::loadScores">
+<area shape="rect" id="node1" title="Loads the scores from a file." alt="" coords="5,31,188,57"/>
+<area shape="rect" id="node2" href="$classLeaderboard.html#aaf22ea54d8b0e7e5d2bf5c3b9dcbdee2" title="Creates a save file." alt="" coords="236,5,420,32"/>
+<area shape="rect" id="node3" href="$classLeaderboard.html#a9d9d83737bf8412fa71cb1c238c059f6" title="Reads a value from binary save file." alt="" coords="258,56,398,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Game::returnAllToStart" name="Game::returnAllToStart">
+<area shape="rect" id="node1" title="Returns all moving objects to their starting positions." alt="" coords="5,157,176,184"/>
+<area shape="rect" id="node2" href="$classGame.html#a6d54497ce3a66f6dd45eacfdccc8d0bd" title="Draws the game." alt="" coords="224,120,325,147"/>
+<area shape="rect" id="node5" href="$classWindow.html#aaa279ff498c917ba2535b26e5f396c7c" title="Prints character at given position, default color." alt="" coords="414,208,569,235"/>
+<area shape="rect" id="node3" href="$classGamePhase.html#a337c0a04d2c1d159ff9a98e99e11116a" title="Returns the current level." alt="" coords="409,5,573,32"/>
+<area shape="rect" id="node4" href="$classGamePhase.html#a1e01dd9cbefce12ad832102c3a9ed3a2" title="Returns the number of remaining items." alt="" coords="373,56,609,83"/>
+<area shape="rect" id="node6" href="$classWindow.html#a7f8803b32163553cf314fa01b703c9a8" title="Prints the game UI." alt="" coords="429,107,554,133"/>
+<area shape="rect" id="node8" href="$classWindow.html#a3c38bfdaf7cb6ebcfdbcb40916a72bf7" title="Refreshes the current window." alt="" coords="657,157,809,184"/>
+<area shape="rect" id="node7" href="$classWindow.html#aad6d9b11314512a7fbc775a3fef9ca1c" title="Helper function for printing lives." alt="" coords="661,107,806,133"/>
+</map>

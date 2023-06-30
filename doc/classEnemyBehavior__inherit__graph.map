@@ -1,0 +1,6 @@
+<map id="EnemyBehavior" name="EnemyBehavior">
+<area shape="rect" id="node1" title=" " alt="" coords="161,5,287,32"/>
+<area shape="rect" id="node2" href="$structChaseBehavior.html" title=" " alt="" coords="5,80,125,107"/>
+<area shape="rect" id="node3" href="$structFrightenedBehavior.html" title=" " alt="" coords="149,80,299,107"/>
+<area shape="rect" id="node4" href="$structScatterBehavior.html" title=" " alt="" coords="323,80,450,107"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="src/ScatterBehavior.h" name="src/ScatterBehavior.h">
+<area shape="rect" id="node1" title="Class for the scatter behavior of the ghosts." alt="" coords="115,5,275,32"/>
+<area shape="rect" id="node2" href="$Game_8cpp.html" title="Class for handling the game logic." alt="" coords="5,80,116,107"/>
+<area shape="rect" id="node3" href="$Ghost_8cpp.html" title="Represents a ghost enemy." alt="" coords="140,80,251,107"/>
+<area shape="rect" id="node4" href="$ScatterBehavior_8cpp.html" title="Class for the scatter behavior of the ghosts." alt="" coords="275,80,449,107"/>
+</map>

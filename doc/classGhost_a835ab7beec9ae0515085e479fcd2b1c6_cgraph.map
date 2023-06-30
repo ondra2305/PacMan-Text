@@ -1,0 +1,7 @@
+<map id="Ghost::interactWith" name="Ghost::interactWith">
+<area shape="rect" id="node1" title="Interacts with another object." alt="" coords="5,56,153,83"/>
+<area shape="rect" id="node2" href="$classGamePhase.html#a337c0a04d2c1d159ff9a98e99e11116a" title="Returns the current level." alt="" coords="221,5,385,32"/>
+<area shape="rect" id="node3" href="$classMovingObject.html#a0770fcf5def6da1bfeefb3a16e356ace" title="Returns the object to its starting position." alt="" coords="201,56,405,83"/>
+<area shape="rect" id="node4" href="$classGamePhase.html#af152a5e182080af728f34e66b29079c5" title="Sets the current game phase." alt="" coords="220,107,387,133"/>
+<area shape="rect" id="node5" href="$classGamePhase.html#a097fcd119e1cce98533b731f7e6ae53d" title="Sets the time of the current phase." alt="" coords="453,107,653,133"/>
+</map>

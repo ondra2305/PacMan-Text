@@ -1,0 +1,4 @@
+<map id="Window::displayLeaderboard" name="Window::displayLeaderboard">
+<area shape="rect" id="node1" title="Displays the leaderboard." alt="" coords="5,5,215,32"/>
+<area shape="rect" id="node2" href="$classWindow.html#a07c2b4d065cbcb397eafc1a27a337bb7" title="Clears the current window." alt="" coords="263,5,449,32"/>
+</map>

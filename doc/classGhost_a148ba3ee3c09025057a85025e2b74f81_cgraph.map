@@ -1,0 +1,8 @@
+<map id="Ghost::tryMove" name="Ghost::tryMove">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,128,133"/>
+<area shape="rect" id="node2" href="$Helpers_8cpp.html#a98742d5d9d01be6137fb4e7005f89248" title=" " alt="" coords="195,5,383,32"/>
+<area shape="rect" id="node3" href="$classMap.html#a3b01db567592d31b0f862e84bf687c75" title="Gets the nearest ghost cage exit." alt="" coords="176,56,403,83"/>
+<area shape="rect" id="node4" href="$classMap.html#a3fa542ef9ff897893adc5a290b224114" title="Gets the map size." alt="" coords="236,107,343,133"/>
+<area shape="rect" id="node5" href="$classMap.html#a9daf0b81095fe118f2e52fd783ea1bf8" title="Checks if there is a wall at the given coordinates." alt="" coords="234,157,345,184"/>
+<area shape="rect" id="node6" href="$classGhost.html#aa6cee6d5199e728031a07f703b116a67" title="Moves the object in the given direction." alt="" coords="237,208,342,235"/>
+</map>

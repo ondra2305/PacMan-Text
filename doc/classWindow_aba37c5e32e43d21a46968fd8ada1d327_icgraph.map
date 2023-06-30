@@ -1,0 +1,11 @@
+<map id="Window::printMessage" name="Window::printMessage">
+<area shape="rect" id="node1" title="Prints the message to the current window." alt="" coords="556,111,725,138"/>
+<area shape="rect" id="node2" href="$classGame.html#aa2d938aa918268060e63980c7efd86f8" title="Ends the game." alt="" coords="185,10,279,36"/>
+<area shape="rect" id="node4" href="$classGame.html#a66e2ecb02f046b0c17922a4255720e5a" title="Ends the game on error." alt="" coords="361,35,491,62"/>
+<area shape="rect" id="node5" href="$classGame.html#a2a30c89761624ee64cd7acb147aaf89c" title="Starts the game." alt="" coords="183,86,281,112"/>
+<area shape="rect" id="node6" href="$classGame.html#a1118c369ae5b2fe433aac540cb32d187" title="Starts the game with a new map." alt="" coords="168,136,296,163"/>
+<area shape="rect" id="node7" href="$classGame.html#a4c2a7ead717a4c13f1ffddafd11e17c8" title="Initializes the game, loading config, and the map." alt="" coords="344,136,508,163"/>
+<area shape="rect" id="node8" href="$classGameManager.html#a8460b2f4f44c19dd405e4163fe6cb5cf" title=" " alt="" coords="348,238,504,264"/>
+<area shape="rect" id="node3" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="5,10,120,36"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="205,238,259,264"/>
+</map>

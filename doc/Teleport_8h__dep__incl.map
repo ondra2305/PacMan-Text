@@ -1,0 +1,5 @@
+<map id="src/Teleport.h" name="src/Teleport.h">
+<area shape="rect" id="node1" title="Represents a teleport object." alt="" coords="77,5,186,32"/>
+<area shape="rect" id="node2" href="$Game_8cpp.html" title="Class for handling the game logic." alt="" coords="5,80,116,107"/>
+<area shape="rect" id="node3" href="$Teleport_8cpp.html" title="Represents a teleport object." alt="" coords="140,80,264,107"/>
+</map>

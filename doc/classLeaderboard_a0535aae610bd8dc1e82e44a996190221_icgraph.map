@@ -1,0 +1,6 @@
+<map id="Leaderboard::write" name="Leaderboard::write">
+<area shape="rect" id="node1" title="Writes a value to binary save file." alt="" coords="543,5,687,32"/>
+<area shape="rect" id="node2" href="$classLeaderboard.html#aa277b90da39dbbfe9088a8bffb9ddb59" title="Saves the scores to a file." alt="" coords="309,5,495,32"/>
+<area shape="rect" id="node3" href="$classGame.html#aa2d938aa918268060e63980c7efd86f8" title="Ends the game." alt="" coords="168,5,261,32"/>
+<area shape="rect" id="node4" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="5,5,120,32"/>
+</map>

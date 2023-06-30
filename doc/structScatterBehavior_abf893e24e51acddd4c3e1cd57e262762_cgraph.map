@@ -1,0 +1,8 @@
+<map id="ScatterBehavior::move" name="ScatterBehavior::move">
+<area shape="rect" id="node1" title="Gets the ideal direction to move the enemy." alt="" coords="5,107,176,133"/>
+<area shape="rect" id="node2" href="$classMovingObject.html#aa5908d2d3540224c20f0a2b0d468b38d" title="Returns the previous direction of the object." alt="" coords="224,5,453,32"/>
+<area shape="rect" id="node3" href="$classMap.html#a3fa542ef9ff897893adc5a290b224114" title="Gets the map size." alt="" coords="285,56,392,83"/>
+<area shape="rect" id="node4" href="$classGameObject.html#a642a2dddae915a8155ee76d8ac7770f7" title="Gets the x coordinate." alt="" coords="268,107,409,133"/>
+<area shape="rect" id="node5" href="$classGameObject.html#a87383d4bc7d63107d8d3507249c8a4ec" title="Gets the y coordinate." alt="" coords="269,157,409,184"/>
+<area shape="rect" id="node6" href="$classMap.html#a9daf0b81095fe118f2e52fd783ea1bf8" title="Checks if there is a wall at the given coordinates." alt="" coords="283,208,394,235"/>
+</map>

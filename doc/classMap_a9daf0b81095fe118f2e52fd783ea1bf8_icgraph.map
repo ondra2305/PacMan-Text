@@ -1,0 +1,8 @@
+<map id="Map::isWallAt" name="Map::isWallAt">
+<area shape="rect" id="node1" title="Checks if there is a wall at the given coordinates." alt="" coords="428,81,539,108"/>
+<area shape="rect" id="node2" href="$classPlayer.html#aa4002becf320cc56377ecda8622a1ba3" title="Returns the calculated next move of the object." alt="" coords="215,5,374,32"/>
+<area shape="rect" id="node3" href="$structChaseBehavior.html#a2352bad80fc83366546accdba99f7d33" title="Gets the ideal direction to move the enemy." alt="" coords="212,56,377,83"/>
+<area shape="rect" id="node4" href="$structScatterBehavior.html#abf893e24e51acddd4c3e1cd57e262762" title="Gets the ideal direction to move the enemy." alt="" coords="209,107,380,133"/>
+<area shape="rect" id="node5" href="$classGhost.html#a148ba3ee3c09025057a85025e2b74f81" title=" " alt="" coords="233,157,356,184"/>
+<area shape="rect" id="node6" href="$classGhost.html#a8f00182b9e19aec6cab0f795ee8dd5ae" title="Returns the calculated next move of the object." alt="" coords="5,157,161,184"/>
+</map>

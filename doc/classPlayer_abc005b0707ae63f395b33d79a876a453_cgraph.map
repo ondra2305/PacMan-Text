@@ -1,0 +1,9 @@
+<map id="Player::update" name="Player::update">
+<area shape="rect" id="node1" title="Updates the object." alt="" coords="5,107,121,133"/>
+<area shape="rect" id="node2" href="$classGamePhase.html#a4e546a7d0a52cbd70612880d61e5f55c" title="Returns the current game phase." alt="" coords="187,5,355,32"/>
+<area shape="rect" id="node3" href="$classGamePhase.html#a704dda3508f76202edc8364d76fa6d22" title="Returns the previous game phase." alt="" coords="172,56,369,83"/>
+<area shape="rect" id="node4" href="$classMovingObject.html#a6866cb38b81682fc594939196117e2e3" title="Sets the invincibility of the object." alt="" coords="169,107,372,133"/>
+<area shape="rect" id="node5" href="$classGamePhase.html#af152a5e182080af728f34e66b29079c5" title="Sets the current game phase." alt="" coords="187,157,354,184"/>
+<area shape="rect" id="node7" href="$classMovingObject.html#a0fa9f24bfcb0d40d1af3ee26dedfa47d" title="Sets the speed of the object." alt="" coords="181,208,361,235"/>
+<area shape="rect" id="node6" href="$classGamePhase.html#a097fcd119e1cce98533b731f7e6ae53d" title="Sets the time of the current phase." alt="" coords="420,157,620,184"/>
+</map>

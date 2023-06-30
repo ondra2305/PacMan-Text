@@ -1,0 +1,6 @@
+<map id="calculateNewCoordinates" name="calculateNewCoordinates">
+<area shape="rect" id="node1" title=" " alt="" coords="416,31,604,57"/>
+<area shape="rect" id="node2" href="$classPlayer.html#aa4002becf320cc56377ecda8622a1ba3" title="Returns the calculated next move of the object." alt="" coords="209,5,368,32"/>
+<area shape="rect" id="node3" href="$classGhost.html#a148ba3ee3c09025057a85025e2b74f81" title=" " alt="" coords="227,56,350,83"/>
+<area shape="rect" id="node4" href="$classGhost.html#a8f00182b9e19aec6cab0f795ee8dd5ae" title="Returns the calculated next move of the object." alt="" coords="5,56,161,83"/>
+</map>

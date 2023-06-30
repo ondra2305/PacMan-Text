@@ -1,0 +1,5 @@
+<map id="GameObject::getY" name="GameObject::getY">
+<area shape="rect" id="node1" title="Gets the y coordinate." alt="" coords="224,31,364,57"/>
+<area shape="rect" id="node2" href="$structChaseBehavior.html#a2352bad80fc83366546accdba99f7d33" title="Gets the ideal direction to move the enemy." alt="" coords="8,5,173,32"/>
+<area shape="rect" id="node3" href="$structScatterBehavior.html#abf893e24e51acddd4c3e1cd57e262762" title="Gets the ideal direction to move the enemy." alt="" coords="5,56,176,83"/>
+</map>

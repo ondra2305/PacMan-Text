@@ -1,0 +1,7 @@
+<map id="Player::getNextMove" name="Player::getNextMove">
+<area shape="rect" id="node1" title="Returns the calculated next move of the object." alt="" coords="5,81,164,108"/>
+<area shape="rect" id="node2" href="$Helpers_8cpp.html#a98742d5d9d01be6137fb4e7005f89248" title=" " alt="" coords="212,5,400,32"/>
+<area shape="rect" id="node3" href="$classMap.html#a3fa542ef9ff897893adc5a290b224114" title="Gets the map size." alt="" coords="253,56,359,83"/>
+<area shape="rect" id="node4" href="$classMap.html#a9daf0b81095fe118f2e52fd783ea1bf8" title="Checks if there is a wall at the given coordinates." alt="" coords="251,107,361,133"/>
+<area shape="rect" id="node5" href="$classPlayer.html#adc34e719171cf292e1910982f0ed7c1e" title="Moves the object in the given direction." alt="" coords="252,157,360,184"/>
+</map>

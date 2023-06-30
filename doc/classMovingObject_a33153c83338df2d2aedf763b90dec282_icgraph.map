@@ -1,0 +1,4 @@
+<map id="MovingObject::takeLive" name="MovingObject::takeLive">
+<area shape="rect" id="node1" title="Takes one life from the object." alt="" coords="204,5,379,32"/>
+<area shape="rect" id="node2" href="$classPlayer.html#a6cd163c50b10495a9d94f471b74c30ee" title="Interacts with another object." alt="" coords="5,5,156,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Leaderboard::createSave" name="Leaderboard::createSave">
+<area shape="rect" id="node1" title="Creates a save file." alt="" coords="624,31,808,57"/>
+<area shape="rect" id="node2" href="$classLeaderboard.html#a43ac1b937341b8e5b3bd8b33200034d1" title="Loads the scores from a file." alt="" coords="393,31,576,57"/>
+<area shape="rect" id="node3" href="$classGame.html#a4c2a7ead717a4c13f1ffddafd11e17c8" title="Initializes the game, loading config, and the map." alt="" coords="181,31,345,57"/>
+<area shape="rect" id="node4" href="$classGame.html#a2a30c89761624ee64cd7acb147aaf89c" title="Starts the game." alt="" coords="20,5,119,32"/>
+<area shape="rect" id="node5" href="$classGame.html#a1118c369ae5b2fe433aac540cb32d187" title="Starts the game with a new map." alt="" coords="5,56,133,83"/>
+</map>

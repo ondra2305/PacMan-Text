@@ -1,0 +1,18 @@
+<map id="src/Ghost.h" name="src/Ghost.h">
+<area shape="rect" id="node1" title="Represents a ghost enemy." alt="" coords="303,5,398,32"/>
+<area shape="rect" id="node2" href="$MovingObject_8h.html" title="Base class for all moving objects." alt="" coords="270,155,394,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="44,304,121,331"/>
+<area shape="rect" id="node9" href="$Map_8h.html" title="Class for handling the game map." alt="" coords="451,229,514,256"/>
+<area shape="rect" id="node15" href="$EnemyBehavior_8h.html" title="Base class for all enemy behaviors." alt="" coords="177,80,313,107"/>
+<area shape="rect" id="node16" href="$Player_8h.html" title="Represents a player." alt="" coords="408,80,483,107"/>
+<area shape="rect" id="node3" href="$GameObject_8h.html" title="Base class for all game objects." alt="" coords="144,229,259,256"/>
+<area shape="rect" id="node4" href="$Enums_8h.html" title=" " alt="" coords="237,453,315,480"/>
+<area shape="rect" id="node6" href="$GamePhase_8h.html" title="Handles the game phase and level." alt="" coords="197,304,309,331"/>
+<area shape="rect" id="node8" title=" " alt="" coords="339,379,413,405"/>
+<area shape="rect" id="node5" title=" " alt="" coords="246,528,306,555"/>
+<area shape="rect" id="node10" title=" " alt="" coords="817,453,876,480"/>
+<area shape="rect" id="node11" title=" " alt="" coords="630,453,693,480"/>
+<area shape="rect" id="node12" href="$Window_8h.html" title="Class for handling ncurses windows." alt="" coords="539,304,624,331"/>
+<area shape="rect" id="node13" title=" " alt="" coords="539,379,623,405"/>
+<area shape="rect" id="node14" href="$Helpers_8h.html" title=" " alt="" coords="699,379,783,405"/>
+</map>

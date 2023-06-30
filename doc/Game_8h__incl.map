@@ -1,0 +1,23 @@
+<map id="src/Game.h" name="src/Game.h">
+<area shape="rect" id="node1" title="Class for handling the game logic." alt="" coords="645,5,741,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="1005,379,1082,405"/>
+<area shape="rect" id="node3" title=" " alt="" coords="236,528,299,555"/>
+<area shape="rect" id="node4" href="$GameObject_8h.html" title="Base class for all game objects." alt="" coords="1269,304,1384,331"/>
+<area shape="rect" id="node7" href="$GamePhase_8h.html" title="Handles the game phase and level." alt="" coords="1320,379,1432,405"/>
+<area shape="rect" id="node8" href="$Config_8h.html" title="Class for handling the game configuration." alt="" coords="182,453,257,480"/>
+<area shape="rect" id="node11" href="$Window_8h.html" title="Class for handling ncurses windows." alt="" coords="562,379,648,405"/>
+<area shape="rect" id="node15" href="$Player_8h.html" title="Represents a player." alt="" coords="656,155,730,181"/>
+<area shape="rect" id="node17" href="$Map_8h.html" title="Class for handling the game map." alt="" coords="595,304,658,331"/>
+<area shape="rect" id="node18" href="$Ghost_8h.html" title="Represents a ghost enemy." alt="" coords="758,80,830,107"/>
+<area shape="rect" id="node20" href="$Leaderboard_8h.html" title="Class for handling the game leaderboard." alt="" coords="44,453,158,480"/>
+<area shape="rect" id="node21" href="$InteractiveObject_8h.html" title="Base class for all interactive objects." alt="" coords="1117,80,1264,107"/>
+<area shape="rect" id="node5" href="$Enums_8h.html" title=" " alt="" coords="926,528,1004,555"/>
+<area shape="rect" id="node6" title=" " alt="" coords="935,603,995,629"/>
+<area shape="rect" id="node9" title=" " alt="" coords="342,528,401,555"/>
+<area shape="rect" id="node10" title=" " alt="" coords="122,528,173,555"/>
+<area shape="rect" id="node12" title=" " alt="" coords="434,453,518,480"/>
+<area shape="rect" id="node13" title=" " alt="" coords="802,453,877,480"/>
+<area shape="rect" id="node14" href="$Helpers_8h.html" title=" " alt="" coords="542,453,626,480"/>
+<area shape="rect" id="node16" href="$MovingObject_8h.html" title="Base class for all moving objects." alt="" coords="867,229,991,256"/>
+<area shape="rect" id="node19" href="$EnemyBehavior_8h.html" title="Base class for all enemy behaviors." alt="" coords="754,155,890,181"/>
+</map>

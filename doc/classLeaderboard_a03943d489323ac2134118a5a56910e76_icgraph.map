@@ -1,0 +1,5 @@
+<map id="Leaderboard::getTopScores" name="Leaderboard::getTopScores">
+<area shape="rect" id="node1" title="Gets the top scores." alt="" coords="309,31,507,57"/>
+<area shape="rect" id="node2" href="$classGame.html#aa2d938aa918268060e63980c7efd86f8" title="Ends the game." alt="" coords="168,5,261,32"/>
+<area shape="rect" id="node3" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="5,31,120,57"/>
+</map>

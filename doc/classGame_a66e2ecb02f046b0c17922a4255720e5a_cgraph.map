@@ -1,0 +1,6 @@
+<map id="Game::endOnErr" name="Game::endOnErr">
+<area shape="rect" id="node1" title="Ends the game on error." alt="" coords="5,23,135,50"/>
+<area shape="rect" id="node2" href="$classWindow.html#a07c2b4d065cbcb397eafc1a27a337bb7" title="Clears the current window." alt="" coords="400,23,587,50"/>
+<area shape="rect" id="node3" href="$classMap.html#a7ded655c7db0e9d72816430b4f2c83a5" title="Clears the map." alt="" coords="208,23,327,50"/>
+<area shape="rect" id="node4" href="$classWindow.html#aba37c5e32e43d21a46968fd8ada1d327" title="Prints the message to the current window." alt="" coords="183,74,352,101"/>
+</map>
