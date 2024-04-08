@@ -1,13 +1,26 @@
 <map id="GamePhase::getLevel" name="GamePhase::getLevel">
-<area shape="rect" id="node1" title="Returns the current level." alt="" coords="620,245,784,272"/>
-<area shape="rect" id="node2" href="$classGame.html#a6d54497ce3a66f6dd45eacfdccc8d0bd" title="Draws the game." alt="" coords="445,93,547,120"/>
-<area shape="rect" id="node7" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="12,132,127,159"/>
-<area shape="rect" id="node8" href="$classCherry.html#aaf41373bb1fe88172648ce26bb54c5ec" title="Interacts with another object." alt="" coords="420,220,572,247"/>
-<area shape="rect" id="node9" href="$classCoin.html#a9472e2fbcaf6af886dd1be6a99a912c5" title="Interacts with another object." alt="" coords="427,271,565,297"/>
-<area shape="rect" id="node10" href="$classGhost.html#a835ab7beec9ae0515085e479fcd2b1c6" title="Interacts with another object." alt="" coords="422,321,570,348"/>
-<area shape="rect" id="node11" href="$classGame.html#a9f8150e56d9f2c53d172ef0443630de7" title="Updates the game phase timer." alt="" coords="181,296,372,323"/>
-<area shape="rect" id="node3" href="$classGame.html#a4c2a7ead717a4c13f1ffddafd11e17c8" title="Initializes the game, loading config, and the map." alt="" coords="195,17,359,44"/>
-<area shape="rect" id="node6" href="$classGame.html#a127294d56e1c963bf1a12d2b95a7a0c3" title="Returns all moving objects to their starting positions." alt="" coords="191,68,362,95"/>
-<area shape="rect" id="node4" href="$classGame.html#a2a30c89761624ee64cd7acb147aaf89c" title="Starts the game." alt="" coords="20,5,119,32"/>
-<area shape="rect" id="node5" href="$classGame.html#a1118c369ae5b2fe433aac540cb32d187" title="Starts the game with a new map." alt="" coords="5,56,133,83"/>
+<area shape="rect" id="Node000001" title="Returns the current level." alt="" coords="578,245,729,272"/>
+<area shape="rect" id="Node000002" href="$classGame.html#a6d54497ce3a66f6dd45eacfdccc8d0bd" title="Draws the game." alt="" coords="415,93,507,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="622,238,478,122,481,118,625,234"/>
+<area shape="rect" id="Node000007" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="12,132,116,159"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="610,241,572,225,530,211,415,185,300,168,116,151,116,145,301,162,416,180,531,205,573,220,612,236"/>
+<area shape="rect" id="Node000008" href="$classCherry.html#aaf41373bb1fe88172648ce26bb54c5ec" title="Interacts with another object." alt="" coords="392,220,530,247"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="562,249,530,245,531,240,563,244"/>
+<area shape="rect" id="Node000009" href="$classCoin.html#a9472e2fbcaf6af886dd1be6a99a912c5" title="Interacts with another object." alt="" coords="398,271,524,297"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="563,273,525,278,524,273,562,268"/>
+<area shape="rect" id="Node000010" href="$classGhost.html#a835ab7beec9ae0515085e479fcd2b1c6" title="Interacts with another object." alt="" coords="394,321,528,348"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="607,281,531,312,502,323,500,318,529,307,605,276"/>
+<area shape="rect" id="Node000011" href="$classGame.html#a9f8150e56d9f2c53d172ef0443630de7" title="Updates the game phase timer." alt="" coords="171,296,344,323"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="633,286,590,328,562,348,531,363,497,371,463,373,428,371,393,365,331,346,284,326,286,321,333,341,395,360,428,366,463,368,497,366,529,357,559,343,587,324,630,282"/>
+<area shape="rect" id="Node000003" href="$classGame.html#a4c2a7ead717a4c13f1ffddafd11e17c8" title="Initializes the game, loading config, and the map." alt="" coords="184,17,331,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,89,343,58,309,47,310,42,345,54,418,84"/>
+<area shape="rect" id="Node000006" href="$classGame.html#a127294d56e1c963bf1a12d2b95a7a0c3" title="Returns all moving objects to their starting positions." alt="" coords="180,68,335,95"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="399,102,335,94,335,88,400,96"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="400,115,117,143,116,138,399,110"/>
+<area shape="rect" id="Node000004" href="$classGame.html#a2a30c89761624ee64cd7acb147aaf89c" title="Starts the game." alt="" coords="19,5,109,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="169,28,109,24,109,19,169,23"/>
+<area shape="rect" id="Node000005" href="$classGame.html#a1118c369ae5b2fe433aac540cb32d187" title="Starts the game with a new map." alt="" coords="5,56,123,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="173,50,123,60,122,55,172,45"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="201,103,107,134,106,129,199,98"/>
+<area shape="poly" id="edge13_Node000011_Node000007" title=" " alt="" coords="227,288,80,161,83,157,230,284"/>
 </map>

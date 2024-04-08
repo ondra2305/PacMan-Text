@@ -12,6 +12,7 @@
 #include <vector>
 #include <string>
 #include <map>
+#include <cstdint>
 
 class Leaderboard {
 public:

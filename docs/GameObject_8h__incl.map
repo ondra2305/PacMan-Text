@@ -1,7 +1,12 @@
 <map id="src/GameObject.h" name="src/GameObject.h">
-<area shape="rect" id="node1" title="Base class for all game objects." alt="" coords="22,5,161,32"/>
-<area shape="rect" id="node2" href="$Enums_8h.html" title=" " alt="" coords="5,155,84,181"/>
-<area shape="rect" id="node4" href="$GamePhase_8h.html" title="Handles the game phase and level." alt="" coords="35,80,147,107"/>
-<area shape="rect" id="node5" title=" " alt="" coords="171,80,249,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="15,229,75,256"/>
+<area shape="rect" id="Node000001" title="Base class for all game objects." alt="" coords="24,5,151,32"/>
+<area shape="rect" id="Node000002" href="$Enums_8h.html" title=" " alt="" coords="5,155,79,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,34,45,54,26,81,22,95,23,111,31,140,26,141,17,111,17,95,21,79,41,51,65,30"/>
+<area shape="rect" id="Node000004" href="$GamePhase_8h.html" title="Handles the game phase and level." alt="" coords="35,80,140,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="90,33,90,64,85,64,85,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="164,80,232,107"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="108,30,168,69,165,74,105,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="16,229,68,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="45,182,45,214,39,214,39,182"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="82,109,60,143,56,140,77,106"/>
 </map>

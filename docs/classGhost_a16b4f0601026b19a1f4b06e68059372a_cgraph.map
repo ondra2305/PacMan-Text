@@ -1,6 +1,9 @@
 <map id="Ghost::update" name="Ghost::update">
-<area shape="rect" id="node1" title="Updates the object." alt="" coords="5,56,119,83"/>
-<area shape="rect" id="node2" href="$classGamePhase.html#a4e546a7d0a52cbd70612880d61e5f55c" title="Returns the current game phase." alt="" coords="181,5,349,32"/>
-<area shape="rect" id="node3" href="$classGamePhase.html#a704dda3508f76202edc8364d76fa6d22" title="Returns the previous game phase." alt="" coords="167,56,364,83"/>
-<area shape="rect" id="node4" href="$classGhost.html#aab141ab164930973d98258e7f671dc5a" title=" " alt="" coords="192,107,339,133"/>
+<area shape="rect" id="Node000001" title="Updates the object." alt="" coords="5,56,109,83"/>
+<area shape="rect" id="Node000002" href="$classGamePhase.html#a4e546a7d0a52cbd70612880d61e5f55c" title="Returns the current game phase." alt="" coords="170,5,327,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,53,180,34,181,39,110,58"/>
+<area shape="rect" id="Node000003" href="$classGamePhase.html#a704dda3508f76202edc8364d76fa6d22" title="Returns the previous game phase." alt="" coords="157,56,340,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,67,141,67,141,72,109,72"/>
+<area shape="rect" id="Node000004" href="$classGhost.html#aab141ab164930973d98258e7f671dc5a" title=" " alt="" coords="182,107,315,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="110,80,181,100,180,105,108,85"/>
 </map>

@@ -1,5 +1,7 @@
 <map id="Window::printUI" name="Window::printUI">
-<area shape="rect" id="node1" title="Prints the game UI." alt="" coords="5,31,131,57"/>
-<area shape="rect" id="node2" href="$classWindow.html#aad6d9b11314512a7fbc775a3fef9ca1c" title="Helper function for printing lives." alt="" coords="182,5,327,32"/>
-<area shape="rect" id="node3" href="$classWindow.html#a3c38bfdaf7cb6ebcfdbcb40916a72bf7" title="Refreshes the current window." alt="" coords="179,56,331,83"/>
+<area shape="rect" id="Node000001" title="Prints the game UI." alt="" coords="5,31,121,57"/>
+<area shape="rect" id="Node000002" href="$classWindow.html#aad6d9b11314512a7fbc775a3fef9ca1c" title="Helper function for printing lives." alt="" coords="172,5,305,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,33,157,28,158,33,121,38"/>
+<area shape="rect" id="Node000003" href="$classWindow.html#a3c38bfdaf7cb6ebcfdbcb40916a72bf7" title="Refreshes the current window." alt="" coords="169,56,308,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,50,154,54,153,60,120,55"/>
 </map>

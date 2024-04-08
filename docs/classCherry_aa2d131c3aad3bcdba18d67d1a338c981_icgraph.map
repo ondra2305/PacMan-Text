@@ -1,4 +1,5 @@
 <map id="Cherry::isAccessible" name="Cherry::isAccessible">
-<area shape="rect" id="node1" title="Checks if the object is accessible." alt="" coords="225,5,377,32"/>
-<area shape="rect" id="node2" href="$classCherry.html#ab8db36066541009486efe9f442580ab8" title="Checks if the object is accessible for the given object." alt="" coords="5,5,177,32"/>
+<area shape="rect" id="Node000001" title="Checks if the object is accessible." alt="" coords="215,5,357,32"/>
+<area shape="rect" id="Node000002" href="$classCherry.html#ab8db36066541009486efe9f442580ab8" title="Checks if the object is accessible for the given object." alt="" coords="5,5,167,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,21,167,21,167,16,199,16"/>
 </map>

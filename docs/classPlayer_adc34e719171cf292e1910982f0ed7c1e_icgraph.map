@@ -1,4 +1,5 @@
 <map id="Player::move" name="Player::move">
-<area shape="rect" id="node1" title="Moves the object in the given direction." alt="" coords="212,5,320,32"/>
-<area shape="rect" id="node2" href="$classPlayer.html#aa4002becf320cc56377ecda8622a1ba3" title="Returns the calculated next move of the object." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="Node000001" title="Moves the object in the given direction." alt="" coords="198,5,296,32"/>
+<area shape="rect" id="Node000002" href="$classPlayer.html#aa4002becf320cc56377ecda8622a1ba3" title="Returns the calculated next move of the object." alt="" coords="5,5,150,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,21,150,21,150,16,182,16"/>
 </map>

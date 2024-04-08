@@ -1,5 +1,7 @@
 <map id="src/GamePhase.h" name="src/GamePhase.h">
-<area shape="rect" id="node1" title="Handles the game phase and level." alt="" coords="5,5,140,32"/>
-<area shape="rect" id="node2" href="$Enums_8h.html" title=" " alt="" coords="33,80,112,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="43,155,103,181"/>
+<area shape="rect" id="Node000001" title="Handles the game phase and level." alt="" coords="5,5,132,32"/>
+<area shape="rect" id="Node000002" href="$Enums_8h.html" title=" " alt="" coords="32,80,105,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,33,71,64,66,64,66,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="42,155,95,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="71,107,71,139,66,139,66,107"/>
 </map>

@@ -1,5 +1,7 @@
 <map id="src/FrightenedBehavior.h" name="src/FrightenedBehavior.h">
-<area shape="rect" id="node1" title="Class representing a frightened ghost behavior." alt="" coords="103,5,285,32"/>
-<area shape="rect" id="node2" href="$FrightenedBehavior_8cpp.html" title="Class representing a frightened ghost behavior." alt="" coords="5,80,204,107"/>
-<area shape="rect" id="node3" href="$Ghost_8cpp.html" title="Represents a ghost enemy." alt="" coords="228,80,339,107"/>
+<area shape="rect" id="Node000001" title="Class representing a frightened ghost behavior." alt="" coords="95,5,260,32"/>
+<area shape="rect" id="Node000002" href="$FrightenedBehavior_8cpp.html" title="Class representing a frightened ghost behavior." alt="" coords="5,80,185,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,45,111,82,107,78,150,40"/>
+<area shape="rect" id="Node000003" href="$Ghost_8cpp.html" title="Represents a ghost enemy." alt="" coords="209,80,312,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,40,248,78,244,82,202,45"/>
 </map>

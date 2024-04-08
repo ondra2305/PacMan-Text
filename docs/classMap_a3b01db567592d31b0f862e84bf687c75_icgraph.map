@@ -1,5 +1,8 @@
 <map id="Map::getNearestGhostCageExit" name="Map::getNearestGhostCageExit">
-<area shape="rect" id="node1" title="Gets the nearest ghost cage exit." alt="" coords="380,5,607,32"/>
-<area shape="rect" id="node2" href="$classGhost.html#a8f00182b9e19aec6cab0f795ee8dd5ae" title="Returns the calculated next move of the object." alt="" coords="5,5,161,32"/>
-<area shape="rect" id="node3" href="$classGhost.html#a148ba3ee3c09025057a85025e2b74f81" title=" " alt="" coords="209,31,332,57"/>
+<area shape="rect" id="Node000001" title="Gets the nearest ghost cage exit." alt="" coords="355,5,562,32"/>
+<area shape="rect" id="Node000002" href="$classGhost.html#a8f00182b9e19aec6cab0f795ee8dd5ae" title="Returns the calculated next move of the object." alt="" coords="5,5,148,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="339,21,148,21,148,16,339,16"/>
+<area shape="rect" id="Node000003" href="$classGhost.html#a148ba3ee3c09025057a85025e2b74f81" title=" " alt="" coords="196,31,307,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="340,36,307,40,307,35,339,31"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="180,36,148,32,148,26,180,31"/>
 </map>

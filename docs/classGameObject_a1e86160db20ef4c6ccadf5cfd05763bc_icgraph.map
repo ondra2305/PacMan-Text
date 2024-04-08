@@ -1,5 +1,7 @@
 <map id="GameObject::resetColor" name="GameObject::resetColor">
-<area shape="rect" id="node1" title="Resets the object color to default." alt="" coords="289,31,468,57"/>
-<area shape="rect" id="node2" href="$structChaseBehavior.html#a8d61f5095bcec808c915637ece4a1f31" title="Handles the behavior of the enemy when changing the game phase." alt="" coords="8,5,239,32"/>
-<area shape="rect" id="node3" href="$structScatterBehavior.html#a71bec433e6f46246abc648cc14a0a9af" title="Handles the behavior of the enemy when changing the game phase." alt="" coords="5,56,241,83"/>
+<area shape="rect" id="Node000001" title="Resets the object color to default." alt="" coords="265,31,427,57"/>
+<area shape="rect" id="Node000002" href="$structChaseBehavior.html#a8d61f5095bcec808c915637ece4a1f31" title="Handles the behavior of the enemy when changing the game phase." alt="" coords="7,5,215,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,36,215,33,215,27,250,31"/>
+<area shape="rect" id="Node000003" href="$structScatterBehavior.html#a71bec433e6f46246abc648cc14a0a9af" title="Handles the behavior of the enemy when changing the game phase." alt="" coords="5,56,217,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,57,217,61,217,55,249,52"/>
 </map>

@@ -1,5 +1,7 @@
 <map id="Cherry" name="Cherry">
-<area shape="rect" id="node1" title=" " alt="" coords="40,155,105,181"/>
-<area shape="rect" id="node2" href="$classInteractiveObject.html" title=" " alt="" coords="5,80,140,107"/>
-<area shape="rect" id="node3" href="$classGameObject.html" title=" " alt="" coords="21,5,124,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="35,155,96,181"/>
+<area shape="rect" id="Node000002" href="$classInteractiveObject.html" title=" " alt="" coords="5,80,126,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,122,68,154,63,154,63,122"/>
+<area shape="rect" id="Node000003" href="$classGameObject.html" title=" " alt="" coords="18,5,113,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="68,48,68,80,63,80,63,48"/>
 </map>

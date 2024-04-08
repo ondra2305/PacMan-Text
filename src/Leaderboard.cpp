@@ -13,6 +13,7 @@
 #include <vector>
 #include <algorithm>
 #include <stdexcept>
+#include <cstdint>
 
 bool Leaderboard::createSave(const std::string &filename) {
 	std::ofstream outputFile(filename, std::ios::binary);

@@ -1,14 +1,30 @@
 <map id="GamePhase::setPhaseTime" name="GamePhase::setPhaseTime">
-<area shape="rect" id="node1" title="Sets the time of the current phase." alt="" coords="635,356,835,383"/>
-<area shape="rect" id="node2" href="$classGamePhase.html#af152a5e182080af728f34e66b29079c5" title="Sets the current game phase." alt="" coords="420,255,587,282"/>
-<area shape="rect" id="node12" href="$classGame.html#a9f8150e56d9f2c53d172ef0443630de7" title="Updates the game phase timer." alt="" coords="181,458,372,484"/>
-<area shape="rect" id="node3" href="$classGame.html#a4c2a7ead717a4c13f1ffddafd11e17c8" title="Initializes the game, loading config, and the map." alt="" coords="195,52,359,79"/>
-<area shape="rect" id="node4" href="$classGame.html#a2a30c89761624ee64cd7acb147aaf89c" title="Starts the game." alt="" coords="20,15,119,42"/>
-<area shape="rect" id="node5" href="$classGame.html#a1118c369ae5b2fe433aac540cb32d187" title="Starts the game with a new map." alt="" coords="5,78,133,104"/>
-<area shape="rect" id="node6" href="$classCherry.html#aaf41373bb1fe88172648ce26bb54c5ec" title="Interacts with another object." alt="" coords="201,154,353,180"/>
-<area shape="rect" id="node7" href="$classGhost.html#a835ab7beec9ae0515085e479fcd2b1c6" title="Interacts with another object." alt="" coords="203,204,351,231"/>
-<area shape="rect" id="node8" href="$classGame.html#a58272899c822e102edfee50a5547612f" title="Moves the player in given direction." alt="" coords="203,255,350,282"/>
-<area shape="rect" id="node9" href="$classGamePhase.html#a6ebc97f0a4514c9d0689009a0e7bd48c" title="Removes an item from the remaining items." alt="" coords="183,306,371,332"/>
-<area shape="rect" id="node10" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="12,356,127,383"/>
-<area shape="rect" id="node11" href="$classPlayer.html#abc005b0707ae63f395b33d79a876a453" title="Updates the object." alt="" coords="219,407,335,434"/>
+<area shape="rect" id="Node000001" title="Sets the time of the current phase." alt="" coords="596,354,782,381"/>
+<area shape="rect" id="Node000002" href="$classGamePhase.html#af152a5e182080af728f34e66b29079c5" title="Sets the current game phase." alt="" coords="392,253,548,280"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="643,350,500,283,502,278,646,345"/>
+<area shape="rect" id="Node000012" href="$classGame.html#a9f8150e56d9f2c53d172ef0443630de7" title="Updates the game phase timer." alt="" coords="171,456,344,482"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="615,388,318,458,317,453,613,383"/>
+<area shape="rect" id="Node000003" href="$classGame.html#a4c2a7ead717a4c13f1ffddafd11e17c8" title="Initializes the game, loading config, and the map." alt="" coords="184,50,331,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="453,241,410,170,379,131,342,98,309,80,312,75,346,94,383,128,414,167,458,238"/>
+<area shape="rect" id="Node000004" href="$classGame.html#a2a30c89761624ee64cd7acb147aaf89c" title="Starts the game." alt="" coords="19,13,109,40"/>
+<area shape="poly" id="edge10_Node000002_Node000004" title=" " alt="" coords="460,239,447,193,424,138,389,83,368,60,343,41,315,27,285,17,222,9,161,11,110,18,109,13,161,6,222,3,286,12,317,22,345,36,371,56,394,80,428,135,452,191,465,237"/>
+<area shape="rect" id="Node000005" href="$classGame.html#a1118c369ae5b2fe433aac540cb32d187" title="Starts the game with a new map." alt="" coords="5,76,123,102"/>
+<area shape="poly" id="edge11_Node000002_Node000005" title=" " alt="" coords="449,242,405,190,375,164,343,142,287,119,229,104,172,96,123,92,123,87,173,91,230,99,289,114,345,137,379,159,409,186,453,239"/>
+<area shape="rect" id="Node000006" href="$classCherry.html#aaf41373bb1fe88172648ce26bb54c5ec" title="Interacts with another object." alt="" coords="188,152,327,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="436,246,393,219,343,193,312,181,314,176,345,188,395,214,439,242"/>
+<area shape="rect" id="Node000007" href="$classGhost.html#a835ab7beec9ae0515085e479fcd2b1c6" title="Interacts with another object." alt="" coords="190,202,325,229"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="395,251,316,232,317,227,397,246"/>
+<area shape="rect" id="Node000008" href="$classGame.html#a58272899c822e102edfee50a5547612f" title="Moves the player in given direction." alt="" coords="191,253,324,280"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="377,269,325,269,325,264,377,264"/>
+<area shape="rect" id="Node000009" href="$classGamePhase.html#a6ebc97f0a4514c9d0689009a0e7bd48c" title="Removes an item from the remaining items." alt="" coords="172,304,343,330"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="397,287,317,306,316,301,395,281"/>
+<area shape="rect" id="Node000010" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="12,354,116,381"/>
+<area shape="poly" id="edge13_Node000002_Node000010" title=" " alt="" coords="441,292,397,320,345,345,285,360,223,369,116,373,116,367,222,363,284,355,343,340,395,316,438,287"/>
+<area shape="rect" id="Node000011" href="$classPlayer.html#abc005b0707ae63f395b33d79a876a453" title="Updates the object." alt="" coords="205,405,310,432"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="450,293,405,341,376,366,345,389,307,407,305,402,343,384,373,362,401,337,446,290"/>
+<area shape="poly" id="edge14_Node000002_Node000012" title=" " alt="" coords="452,294,394,376,374,414,363,430,346,446,324,458,322,453,342,442,359,426,369,411,390,373,448,291"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="170,50,109,38,110,32,171,44"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="170,78,124,84,123,79,169,73"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="190,337,116,357,115,352,188,332"/>
+<area shape="poly" id="edge15_Node000012_Node000010" title=" " alt="" coords="184,453,169,446,119,415,79,384,83,380,122,410,172,441,186,448"/>
 </map>

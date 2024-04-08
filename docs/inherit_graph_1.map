@@ -1,6 +1,9 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classEnemyBehavior.html" title=" " alt="" coords="5,56,131,83"/>
-<area shape="rect" id="node2" href="$structChaseBehavior.html" title=" " alt="" coords="193,5,313,32"/>
-<area shape="rect" id="node3" href="$structFrightenedBehavior.html" title=" " alt="" coords="179,56,328,83"/>
-<area shape="rect" id="node4" href="$structScatterBehavior.html" title=" " alt="" coords="190,107,317,133"/>
+<area shape="rect" id="Node000000" href="$classEnemyBehavior.html" title=" " alt="" coords="5,56,119,83"/>
+<area shape="rect" id="Node000001" href="$structChaseBehavior.html" title=" " alt="" coords="178,5,289,32"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="123,48,185,30,186,35,125,54"/>
+<area shape="rect" id="Node000002" href="$structFrightenedBehavior.html" title=" " alt="" coords="167,56,300,83"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="134,67,166,67,166,72,134,72"/>
+<area shape="rect" id="Node000003" href="$structScatterBehavior.html" title=" " alt="" coords="176,107,291,133"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="125,85,186,104,185,109,123,90"/>
 </map>

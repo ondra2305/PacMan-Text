@@ -1,36 +1,90 @@
 <map id="src/Window.h" name="src/Window.h">
-<area shape="rect" id="node1" title="Class for handling ncurses windows." alt="" coords="1370,5,1478,32"/>
-<area shape="rect" id="node2" href="$Game_8h.html" title="Class for handling the game logic." alt="" coords="691,379,787,405"/>
-<area shape="rect" id="node4" href="$GameManager_8h.html" title="Handles the game loop and game states." alt="" coords="1279,453,1431,480"/>
-<area shape="rect" id="node7" href="$Map_8h.html" title="Class for handling the game map." alt="" coords="1027,80,1112,107"/>
-<area shape="rect" id="node34" href="$Window_8cpp.html" title="Class for handling ncurses windows." alt="" coords="1823,80,1945,107"/>
-<area shape="rect" id="node3" href="$Game_8cpp.html" title="Class for handling the game logic." alt="" coords="589,453,699,480"/>
-<area shape="rect" id="node5" href="$GameManager_8cpp.html" title="Handles the game loop and game states." alt="" coords="1191,528,1358,555"/>
-<area shape="rect" id="node6" href="$main_8cpp.html" title="Main function, initializes the game manager." alt="" coords="1382,528,1487,555"/>
-<area shape="rect" id="node8" href="$Config_8cpp.html" title="Class for handling the game configuration." alt="" coords="1013,155,1126,181"/>
-<area shape="rect" id="node9" href="$EnemyBehavior_8h.html" title="Base class for all enemy behaviors." alt="" coords="1075,229,1234,256"/>
-<area shape="rect" id="node12" href="$Ghost_8cpp.html" title="Represents a ghost enemy." alt="" coords="1221,379,1331,405"/>
-<area shape="rect" id="node16" href="$Ghost_8h.html" title="Represents a ghost enemy." alt="" coords="777,304,871,331"/>
-<area shape="rect" id="node19" href="$Map_8cpp.html" title="Class for handling the game map." alt="" coords="1150,155,1250,181"/>
-<area shape="rect" id="node20" href="$MovingObject_8h.html" title="Base class for all moving objects." alt="" coords="715,155,861,181"/>
-<area shape="rect" id="node32" href="$Player_8h.html" title="Represents a player." alt="" coords="551,229,649,256"/>
-<area shape="rect" id="node10" href="$ChaseBehavior_8h.html" title="Class for handling the chase behavior of ghosts." alt="" coords="1589,304,1744,331"/>
-<area shape="rect" id="node13" href="$EnemyBehavior_8cpp.html" title="Base class for all enemy behaviors." alt="" coords="1131,304,1306,331"/>
-<area shape="rect" id="node14" href="$FrightenedBehavior_8h.html" title="Class representing a frightened ghost behavior." alt="" coords="1382,304,1565,331"/>
-<area shape="rect" id="node17" href="$ScatterBehavior_8h.html" title="Class for the scatter behavior of the ghosts." alt="" coords="947,304,1107,331"/>
-<area shape="rect" id="node11" href="$ChaseBehavior_8cpp.html" title="Class for handling the chase behavior of ghosts." alt="" coords="1578,379,1747,405"/>
-<area shape="rect" id="node15" href="$FrightenedBehavior_8cpp.html" title="Class representing a frightened ghost behavior." alt="" coords="1355,379,1554,405"/>
-<area shape="rect" id="node18" href="$ScatterBehavior_8cpp.html" title="Class for the scatter behavior of the ghosts." alt="" coords="998,379,1173,405"/>
-<area shape="rect" id="node21" href="$InteractiveObject_8h.html" title="Base class for all interactive objects." alt="" coords="294,304,463,331"/>
-<area shape="rect" id="node31" href="$MovingObject_8cpp.html" title="Base class for all moving objects." alt="" coords="673,229,836,256"/>
-<area shape="rect" id="node22" href="$Cherry_8h.html" title="Class representing a cherry collectible." alt="" coords="213,379,312,405"/>
-<area shape="rect" id="node24" href="$Coin_8h.html" title="Class representing a coin collectible." alt="" coords="337,379,423,405"/>
-<area shape="rect" id="node26" href="$InteractiveObject_8cpp.html" title="Base class for all interactive objects." alt="" coords="5,379,189,405"/>
-<area shape="rect" id="node27" href="$Teleport_8h.html" title="Represents a teleport object." alt="" coords="448,379,557,405"/>
-<area shape="rect" id="node29" href="$Wall_8h.html" title="Represents a wall object." alt="" coords="581,379,667,405"/>
-<area shape="rect" id="node23" href="$Cherry_8cpp.html" title="Class representing a cherry collectible." alt="" coords="177,453,290,480"/>
-<area shape="rect" id="node25" href="$Coin_8cpp.html" title="Class representing a coin collectible." alt="" coords="315,453,416,480"/>
-<area shape="rect" id="node28" href="$Teleport_8cpp.html" title="Represents a teleport object." alt="" coords="441,453,565,480"/>
-<area shape="rect" id="node30" href="$Wall_8cpp.html" title="Represents a wall object." alt="" coords="723,453,823,480"/>
-<area shape="rect" id="node33" href="$Player_8cpp.html" title="Represents a player." alt="" coords="539,304,651,331"/>
+<area shape="rect" id="Node000001" title="Class for handling ncurses windows." alt="" coords="1283,5,1383,32"/>
+<area shape="rect" id="Node000002" href="$Game_8h.html" title="Class for handling the game logic." alt="" coords="644,379,734,405"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1268,28,1082,47,965,64,844,86,728,113,626,146,582,165,545,185,517,207,497,231,481,257,473,281,474,304,487,329,507,340,548,353,645,378,643,383,546,358,505,344,483,333,469,306,468,280,477,255,492,228,513,203,542,181,580,160,624,141,727,108,843,80,965,59,1082,42,1268,22"/>
+<area shape="rect" id="Node000004" href="$GameManager_8h.html" title="Handles the game loop and game states." alt="" coords="1197,453,1336,480"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="1399,18,1482,26,1528,35,1571,49,1611,68,1642,93,1664,126,1670,145,1672,167,1672,319,1670,368,1663,388,1645,407,1623,421,1591,433,1510,450,1419,460,1336,466,1336,460,1418,455,1509,444,1590,428,1620,416,1642,403,1658,385,1665,367,1666,319,1666,167,1664,146,1659,128,1638,97,1608,73,1569,54,1526,41,1481,31,1398,23"/>
+<area shape="rect" id="Node000007" href="$Map_8h.html" title="Class for handling the game map." alt="" coords="960,80,1039,107"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="1269,37,1040,86,1039,81,1267,31"/>
+<area shape="rect" id="Node000034" href="$Window_8cpp.html" title="Class for handling ncurses windows." alt="" coords="1707,80,1820,107"/>
+<area shape="poly" id="edge54_Node000001_Node000034" title=" " alt="" coords="1399,28,1707,80,1706,85,1398,34"/>
+<area shape="rect" id="Node000003" href="$Game_8cpp.html" title="Class for handling the game logic." alt="" coords="549,453,653,480"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="664,418,618,455,614,451,660,413"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="750,398,1197,454,1196,459,749,404"/>
+<area shape="rect" id="Node000005" href="$GameManager_8cpp.html" title="Handles the game loop and game states." alt="" coords="1117,528,1269,555"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1245,493,1207,530,1204,526,1241,489"/>
+<area shape="rect" id="Node000006" href="$main_8cpp.html" title="Main function, initializes the game manager." alt="" coords="1293,528,1389,555"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1292,489,1330,526,1326,530,1288,493"/>
+<area shape="poly" id="edge25_Node000007_Node000002" title=" " alt="" coords="970,118,915,157,784,258,747,279,732,289,717,306,706,324,699,344,693,379,687,378,694,342,701,322,712,302,728,285,744,275,781,254,911,153,967,113"/>
+<area shape="rect" id="Node000008" href="$Config_8cpp.html" title="Class for handling the game configuration." alt="" coords="947,155,1053,181"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="1002,122,1002,154,997,154,997,122"/>
+<area shape="rect" id="Node000009" href="$EnemyBehavior_8h.html" title="Base class for all enemy behaviors." alt="" coords="1008,229,1154,256"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="1055,94,1089,99,1125,110,1158,127,1185,153,1190,166,1190,178,1174,200,1148,217,1118,231,1116,226,1145,213,1170,196,1185,176,1185,167,1180,156,1155,132,1123,115,1088,104,1054,99"/>
+<area shape="rect" id="Node000012" href="$Ghost_8cpp.html" title="Represents a ghost enemy." alt="" coords="1144,379,1247,405"/>
+<area shape="poly" id="edge26_Node000007_Node000012" title=" " alt="" coords="1055,93,1093,98,1134,108,1173,126,1207,153,1238,195,1251,236,1249,280,1237,332,1224,358,1209,380,1204,377,1220,356,1232,330,1244,279,1245,236,1233,197,1203,157,1171,131,1132,114,1092,103,1054,98"/>
+<area shape="rect" id="Node000016" href="$Ghost_8h.html" title="Represents a ghost enemy." alt="" coords="727,304,816,331"/>
+<area shape="poly" id="edge27_Node000007_Node000016" title=" " alt="" coords="974,119,936,156,919,184,910,208,899,232,879,258,842,286,804,306,802,301,839,282,875,254,895,229,905,206,915,181,932,153,970,115"/>
+<area shape="rect" id="Node000019" href="$Map_8cpp.html" title="Class for handling the game map." alt="" coords="1077,155,1170,181"/>
+<area shape="poly" id="edge28_Node000007_Node000019" title=" " alt="" coords="1035,112,1103,152,1101,156,1033,117"/>
+<area shape="rect" id="Node000020" href="$MovingObject_8h.html" title="Base class for all moving objects." alt="" coords="663,155,798,181"/>
+<area shape="poly" id="edge29_Node000007_Node000020" title=" " alt="" coords="946,112,778,157,777,152,944,107"/>
+<area shape="rect" id="Node000032" href="$Player_8h.html" title="Represents a player." alt="" coords="507,229,597,256"/>
+<area shape="poly" id="edge53_Node000007_Node000032" title=" " alt="" coords="945,98,882,102,808,111,729,129,653,157,625,173,600,193,564,231,560,227,597,189,622,169,651,152,727,124,807,106,882,97,944,92"/>
+<area shape="poly" id="edge17_Node000009_Node000003" title=" " alt="" coords="1004,263,943,281,881,306,841,331,813,355,786,381,746,408,691,435,639,455,637,450,689,430,744,403,782,376,810,351,838,327,878,302,941,276,1003,258"/>
+<area shape="rect" id="Node000010" href="$ChaseBehavior_8h.html" title="Class for handling the chase behavior of ghosts." alt="" coords="1486,304,1628,331"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1169,255,1486,303,1485,308,1169,260"/>
+<area shape="rect" id="Node000013" href="$EnemyBehavior_8cpp.html" title="Base class for all enemy behaviors." alt="" coords="1063,304,1222,331"/>
+<area shape="poly" id="edge13_Node000009_Node000013" title=" " alt="" coords="1103,266,1134,302,1130,305,1099,270"/>
+<area shape="rect" id="Node000014" href="$FrightenedBehavior_8h.html" title="Class representing a frightened ghost behavior." alt="" coords="1297,304,1462,331"/>
+<area shape="poly" id="edge14_Node000009_Node000014" title=" " alt="" coords="1149,258,1328,301,1327,306,1147,263"/>
+<area shape="poly" id="edge18_Node000009_Node000016" title=" " alt="" coords="1013,263,817,308,816,303,1012,257"/>
+<area shape="rect" id="Node000017" href="$ScatterBehavior_8h.html" title="Class for the scatter behavior of the ghosts." alt="" coords="892,304,1038,331"/>
+<area shape="poly" id="edge21_Node000009_Node000017" title=" " alt="" coords="1049,267,987,306,984,301,1046,262"/>
+<area shape="rect" id="Node000011" href="$ChaseBehavior_8cpp.html" title="Class for handling the chase behavior of ghosts." alt="" coords="1475,379,1631,405"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1558,347,1556,378,1551,378,1553,346"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="1479,337,1248,383,1247,378,1478,332"/>
+<area shape="poly" id="edge16_Node000014_Node000012" title=" " alt="" coords="1334,339,1229,381,1227,376,1332,334"/>
+<area shape="rect" id="Node000015" href="$FrightenedBehavior_8cpp.html" title="Class representing a frightened ghost behavior." alt="" coords="1271,379,1451,405"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="1375,346,1367,379,1362,378,1370,345"/>
+<area shape="poly" id="edge19_Node000016_Node000002" title=" " alt="" coords="748,343,705,380,701,376,744,339"/>
+<area shape="poly" id="edge20_Node000016_Node000012" title=" " alt="" coords="832,326,1144,379,1143,384,831,331"/>
+<area shape="poly" id="edge22_Node000017_Node000003" title=" " alt="" coords="948,345,916,378,874,408,784,431,654,458,652,453,783,426,872,403,912,374,944,341"/>
+<area shape="poly" id="edge23_Node000017_Node000012" title=" " alt="" coords="1021,333,1156,375,1154,381,1019,338"/>
+<area shape="rect" id="Node000018" href="$ScatterBehavior_8cpp.html" title="Class for the scatter behavior of the ghosts." alt="" coords="942,379,1103,405"/>
+<area shape="poly" id="edge24_Node000017_Node000018" title=" " alt="" coords="986,341,1015,377,1010,380,982,345"/>
+<area shape="poly" id="edge30_Node000020_Node000009" title=" " alt="" coords="807,182,1020,226,1019,231,806,188"/>
+<area shape="poly" id="edge31_Node000020_Node000016" title=" " alt="" coords="759,190,773,208,785,228,789,249,788,270,779,304,774,303,783,269,784,249,780,230,769,211,755,193"/>
+<area shape="rect" id="Node000021" href="$InteractiveObject_8h.html" title="Base class for all interactive objects." alt="" coords="268,304,422,331"/>
+<area shape="poly" id="edge32_Node000020_Node000021" title=" " alt="" coords="649,187,573,206,495,232,421,270,364,306,361,301,418,265,493,227,572,200,647,182"/>
+<area shape="rect" id="Node000031" href="$MovingObject_8cpp.html" title="Base class for all moving objects." alt="" coords="622,229,770,256"/>
+<area shape="poly" id="edge47_Node000020_Node000031" title=" " alt="" coords="720,197,704,230,699,228,715,194"/>
+<area shape="poly" id="edge48_Node000020_Node000032" title=" " alt="" coords="686,190,584,231,582,226,684,185"/>
+<area shape="poly" id="edge39_Node000021_Node000002" title=" " alt="" coords="422,332,634,376,644,378,643,384,632,381,421,337"/>
+<area shape="rect" id="Node000022" href="$Cherry_8h.html" title="Class representing a cherry collectible." alt="" coords="197,379,288,405"/>
+<area shape="poly" id="edge33_Node000021_Node000022" title=" " alt="" coords="316,342,262,380,259,376,313,338"/>
+<area shape="rect" id="Node000024" href="$Coin_8h.html" title="Class representing a coin collectible." alt="" coords="312,379,394,405"/>
+<area shape="poly" id="edge36_Node000021_Node000024" title=" " alt="" coords="351,346,354,378,349,379,345,346"/>
+<area shape="rect" id="Node000026" href="$InteractiveObject_8cpp.html" title="Base class for all interactive objects." alt="" coords="5,379,173,405"/>
+<area shape="poly" id="edge40_Node000021_Node000026" title=" " alt="" coords="287,338,135,381,133,375,285,333"/>
+<area shape="rect" id="Node000027" href="$Teleport_8h.html" title="Represents a teleport object." alt="" coords="418,379,518,405"/>
+<area shape="poly" id="edge41_Node000021_Node000027" title=" " alt="" coords="381,337,447,376,445,380,378,341"/>
+<area shape="rect" id="Node000029" href="$Wall_8h.html" title="Represents a wall object." alt="" coords="541,379,621,405"/>
+<area shape="poly" id="edge44_Node000021_Node000029" title=" " alt="" coords="401,333,542,376,540,381,400,338"/>
+<area shape="poly" id="edge35_Node000022_Node000003" title=" " alt="" coords="304,404,549,452,548,458,303,409"/>
+<area shape="rect" id="Node000023" href="$Cherry_8cpp.html" title="Class representing a cherry collectible." alt="" coords="162,453,267,480"/>
+<area shape="poly" id="edge34_Node000022_Node000023" title=" " alt="" coords="234,421,222,454,217,452,229,419"/>
+<area shape="poly" id="edge38_Node000024_Node000003" title=" " alt="" coords="409,407,558,450,557,455,408,412"/>
+<area shape="rect" id="Node000025" href="$Coin_8cpp.html" title="Class representing a coin collectible." alt="" coords="291,453,386,480"/>
+<area shape="poly" id="edge37_Node000024_Node000025" title=" " alt="" coords="350,421,343,453,338,452,345,420"/>
+<area shape="poly" id="edge42_Node000027_Node000003" title=" " alt="" coords="505,411,579,450,576,455,503,415"/>
+<area shape="rect" id="Node000028" href="$Teleport_8cpp.html" title="Represents a teleport object." alt="" coords="411,453,525,480"/>
+<area shape="poly" id="edge43_Node000027_Node000028" title=" " alt="" coords="470,421,470,453,465,453,465,421"/>
+<area shape="poly" id="edge45_Node000029_Node000003" title=" " alt="" coords="591,420,600,452,595,454,586,421"/>
+<area shape="rect" id="Node000030" href="$Wall_8cpp.html" title="Represents a wall object." alt="" coords="677,453,770,480"/>
+<area shape="poly" id="edge46_Node000029_Node000030" title=" " alt="" coords="621,410,700,450,697,455,618,415"/>
+<area shape="poly" id="edge49_Node000032_Node000002" title=" " alt="" coords="578,265,615,302,680,376,676,380,611,306,574,269"/>
+<area shape="poly" id="edge50_Node000032_Node000016" title=" " alt="" coords="605,259,734,301,732,306,604,264"/>
+<area shape="poly" id="edge51_Node000032_Node000021" title=" " alt="" coords="502,264,382,306,380,301,501,259"/>
+<area shape="rect" id="Node000033" href="$Player_8cpp.html" title="Represents a player." alt="" coords="497,304,601,331"/>
+<area shape="poly" id="edge52_Node000032_Node000033" title=" " alt="" coords="553,272,552,304,547,304,548,272"/>
 </map>

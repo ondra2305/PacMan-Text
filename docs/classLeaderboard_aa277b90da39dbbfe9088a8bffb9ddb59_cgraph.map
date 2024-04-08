@@ -1,4 +1,5 @@
 <map id="Leaderboard::saveScores" name="Leaderboard::saveScores">
-<area shape="rect" id="node1" title="Saves the scores to a file." alt="" coords="5,5,191,32"/>
-<area shape="rect" id="node2" href="$classLeaderboard.html#a0535aae610bd8dc1e82e44a996190221" title="Writes a value to binary save file." alt="" coords="239,5,383,32"/>
+<area shape="rect" id="Node000001" title="Saves the scores to a file." alt="" coords="5,5,175,32"/>
+<area shape="rect" id="Node000002" href="$classLeaderboard.html#a0535aae610bd8dc1e82e44a996190221" title="Writes a value to binary save file." alt="" coords="223,5,351,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,16,207,16,207,21,175,21"/>
 </map>

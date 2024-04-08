@@ -1,5 +1,7 @@
 <map id="Ghost::move" name="Ghost::move">
-<area shape="rect" id="node1" title="Moves the object in the given direction." alt="" coords="380,5,485,32"/>
-<area shape="rect" id="node2" href="$classGhost.html#a148ba3ee3c09025057a85025e2b74f81" title=" " alt="" coords="209,5,332,32"/>
-<area shape="rect" id="node3" href="$classGhost.html#a8f00182b9e19aec6cab0f795ee8dd5ae" title="Returns the calculated next move of the object." alt="" coords="5,5,161,32"/>
+<area shape="rect" id="Node000001" title="Moves the object in the given direction." alt="" coords="355,5,451,32"/>
+<area shape="rect" id="Node000002" href="$classGhost.html#a148ba3ee3c09025057a85025e2b74f81" title=" " alt="" coords="196,5,307,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="339,21,307,21,307,16,339,16"/>
+<area shape="rect" id="Node000003" href="$classGhost.html#a8f00182b9e19aec6cab0f795ee8dd5ae" title="Returns the calculated next move of the object." alt="" coords="5,5,148,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,21,148,21,148,16,180,16"/>
 </map>

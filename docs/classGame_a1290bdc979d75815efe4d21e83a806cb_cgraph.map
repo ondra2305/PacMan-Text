@@ -1,6 +1,9 @@
 <map id="Game::loadObjects" name="Game::loadObjects">
-<area shape="rect" id="node1" title="Loads the object from the map." alt="" coords="5,56,152,83"/>
-<area shape="rect" id="node2" href="$classGamePhase.html#a2597fc4aa3837ecc9146f29b18840855" title="Adds an item to the remaining items." alt="" coords="200,5,363,32"/>
-<area shape="rect" id="node3" href="$classMap.html#ad1c83970b8e220d3ba55b755e84453d7" title="Gets the map." alt="" coords="228,56,335,83"/>
-<area shape="rect" id="node4" href="$classConfig.html#a62c7c2d485cb30374271dba0eafe63c8" title="Gets any value from the config map." alt="" coords="217,107,345,133"/>
+<area shape="rect" id="Node000001" title="Loads the object from the map." alt="" coords="5,56,139,83"/>
+<area shape="rect" id="Node000002" href="$classGamePhase.html#a2597fc4aa3837ecc9146f29b18840855" title="Adds an item to the remaining items." alt="" coords="187,5,335,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,53,193,34,195,39,125,58"/>
+<area shape="rect" id="Node000003" href="$classMap.html#a44f2313ac9b9ba0b93a664e87c440613" title="Gets the map." alt="" coords="212,56,310,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,67,197,67,197,72,139,72"/>
+<area shape="rect" id="Node000004" href="$classConfig.html#a62c7c2d485cb30374271dba0eafe63c8" title="Gets any value from the config map." alt="" coords="202,107,320,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="125,81,195,100,193,105,124,86"/>
 </map>

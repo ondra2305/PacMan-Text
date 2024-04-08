@@ -1,5 +1,7 @@
 <map id="Player::interactWith" name="Player::interactWith">
-<area shape="rect" id="node1" title="Interacts with another object." alt="" coords="5,31,156,57"/>
-<area shape="rect" id="node2" href="$classMovingObject.html#a0770fcf5def6da1bfeefb3a16e356ace" title="Returns the object to its starting position." alt="" coords="204,5,408,32"/>
-<area shape="rect" id="node3" href="$classMovingObject.html#a33153c83338df2d2aedf763b90dec282" title="Takes one life from the object." alt="" coords="219,56,393,83"/>
+<area shape="rect" id="Node000001" title="Interacts with another object." alt="" coords="5,31,142,57"/>
+<area shape="rect" id="Node000002" href="$classMovingObject.html#a0770fcf5def6da1bfeefb3a16e356ace" title="Returns the object to its starting position." alt="" coords="190,5,374,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,33,174,29,174,34,143,38"/>
+<area shape="rect" id="Node000003" href="$classMovingObject.html#a33153c83338df2d2aedf763b90dec282" title="Takes one life from the object." alt="" coords="203,56,361,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,50,188,55,187,60,142,55"/>
 </map>

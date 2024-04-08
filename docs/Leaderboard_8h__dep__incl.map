@@ -1,9 +1,15 @@
 <map id="src/Leaderboard.h" name="src/Leaderboard.h">
-<area shape="rect" id="node1" title="Class for handling the game leaderboard." alt="" coords="143,5,282,32"/>
-<area shape="rect" id="node2" href="$Game_8h.html" title="Class for handling the game logic." alt="" coords="90,80,186,107"/>
-<area shape="rect" id="node7" href="$Leaderboard_8cpp.html" title="Class for handling the game leaderboard." alt="" coords="211,80,364,107"/>
-<area shape="rect" id="node3" href="$Game_8cpp.html" title="Class for handling the game logic." alt="" coords="5,155,116,181"/>
-<area shape="rect" id="node4" href="$GameManager_8h.html" title="Handles the game loop and game states." alt="" coords="141,155,293,181"/>
-<area shape="rect" id="node5" href="$GameManager_8cpp.html" title="Handles the game loop and game states." alt="" coords="53,229,220,256"/>
-<area shape="rect" id="node6" href="$main_8cpp.html" title="Main function, initializes the game manager." alt="" coords="244,229,349,256"/>
+<area shape="rect" id="Node000001" title="Class for handling the game leaderboard." alt="" coords="136,5,261,32"/>
+<area shape="rect" id="Node000002" href="$Game_8h.html" title="Class for handling the game logic." alt="" coords="84,80,174,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,45,143,81,139,78,174,41"/>
+<area shape="rect" id="Node000007" href="$Leaderboard_8cpp.html" title="Class for handling the game leaderboard." alt="" coords="198,80,337,107"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="223,41,258,78,254,81,219,45"/>
+<area shape="rect" id="Node000003" href="$Game_8cpp.html" title="Class for handling the game logic." alt="" coords="5,155,109,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,120,71,156,68,152,104,116"/>
+<area shape="rect" id="Node000004" href="$GameManager_8h.html" title="Handles the game loop and game states." alt="" coords="133,155,272,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="155,116,192,152,188,156,151,120"/>
+<area shape="rect" id="Node000005" href="$GameManager_8cpp.html" title="Handles the game loop and game states." alt="" coords="52,229,204,256"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="180,194,142,231,139,227,177,190"/>
+<area shape="rect" id="Node000006" href="$main_8cpp.html" title="Main function, initializes the game manager." alt="" coords="228,229,324,256"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="228,191,265,227,261,231,224,194"/>
 </map>

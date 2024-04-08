@@ -1,8 +1,13 @@
 <map id="ScatterBehavior::move" name="ScatterBehavior::move">
-<area shape="rect" id="node1" title="Gets the ideal direction to move the enemy." alt="" coords="5,107,176,133"/>
-<area shape="rect" id="node2" href="$classMovingObject.html#aa5908d2d3540224c20f0a2b0d468b38d" title="Returns the previous direction of the object." alt="" coords="224,5,453,32"/>
-<area shape="rect" id="node3" href="$classMap.html#a3fa542ef9ff897893adc5a290b224114" title="Gets the map size." alt="" coords="285,56,392,83"/>
-<area shape="rect" id="node4" href="$classGameObject.html#a642a2dddae915a8155ee76d8ac7770f7" title="Gets the x coordinate." alt="" coords="268,107,409,133"/>
-<area shape="rect" id="node5" href="$classGameObject.html#a87383d4bc7d63107d8d3507249c8a4ec" title="Gets the y coordinate." alt="" coords="269,157,409,184"/>
-<area shape="rect" id="node6" href="$classMap.html#a9daf0b81095fe118f2e52fd783ea1bf8" title="Checks if there is a wall at the given coordinates." alt="" coords="283,208,394,235"/>
+<area shape="rect" id="Node000001" title="Gets the ideal direction to move the enemy." alt="" coords="5,107,160,133"/>
+<area shape="rect" id="Node000002" href="$classMovingObject.html#aa5908d2d3540224c20f0a2b0d468b38d" title="Returns the previous direction of the object." alt="" coords="208,5,414,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,104,147,73,207,42,226,34,228,39,209,46,150,77,104,108"/>
+<area shape="rect" id="Node000003" href="$classMap.html#a3fa542ef9ff897893adc5a290b224114" title="Gets the map size." alt="" coords="262,56,360,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,103,246,81,247,86,147,109"/>
+<area shape="rect" id="Node000004" href="$classGameObject.html#a642a2dddae915a8155ee76d8ac7770f7" title="Gets the x coordinate." alt="" coords="246,107,376,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="160,117,231,117,231,123,160,123"/>
+<area shape="rect" id="Node000005" href="$classGameObject.html#a87383d4bc7d63107d8d3507249c8a4ec" title="Gets the y coordinate." alt="" coords="246,157,376,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="147,131,233,151,232,156,146,137"/>
+<area shape="rect" id="Node000006" href="$classMap.html#a9daf0b81095fe118f2e52fd783ea1bf8" title="Checks if there is a wall at the given coordinates." alt="" coords="260,208,362,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="104,132,150,163,209,194,246,206,244,211,207,198,147,167,101,136"/>
 </map>

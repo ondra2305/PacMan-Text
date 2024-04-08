@@ -1,4 +1,5 @@
 <map id="Map::saveMap" name="Map::saveMap">
-<area shape="rect" id="node1" title="Saves the map to a file." alt="" coords="181,5,299,32"/>
-<area shape="rect" id="node2" href="$classGame.html#a1118c369ae5b2fe433aac540cb32d187" title="Starts the game with a new map." alt="" coords="5,5,133,32"/>
+<area shape="rect" id="Node000001" title="Saves the map to a file." alt="" coords="171,5,278,32"/>
+<area shape="rect" id="Node000002" href="$classGame.html#a1118c369ae5b2fe433aac540cb32d187" title="Starts the game with a new map." alt="" coords="5,5,123,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,21,123,21,123,16,155,16"/>
 </map>

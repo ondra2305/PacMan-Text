@@ -1,10 +1,18 @@
 <map id="src/Config.h" name="src/Config.h">
-<area shape="rect" id="node1" title="Class for handling the game configuration." alt="" coords="150,5,249,32"/>
-<area shape="rect" id="node2" href="$Config_8cpp.html" title="Class for handling the game configuration." alt="" coords="5,80,119,107"/>
-<area shape="rect" id="node3" href="$Game_8cpp.html" title="Class for handling the game logic." alt="" coords="101,155,212,181"/>
-<area shape="rect" id="node4" href="$Game_8h.html" title="Class for handling the game logic." alt="" coords="194,80,290,107"/>
-<area shape="rect" id="node8" href="$Window_8cpp.html" title="Class for handling ncurses windows." alt="" coords="314,80,437,107"/>
-<area shape="rect" id="node5" href="$GameManager_8h.html" title="Handles the game loop and game states." alt="" coords="237,155,389,181"/>
-<area shape="rect" id="node6" href="$GameManager_8cpp.html" title="Handles the game loop and game states." alt="" coords="149,229,316,256"/>
-<area shape="rect" id="node7" href="$main_8cpp.html" title="Main function, initializes the game manager." alt="" coords="340,229,445,256"/>
+<area shape="rect" id="Node000001" title="Class for handling the game configuration." alt="" coords="144,5,237,32"/>
+<area shape="rect" id="Node000002" href="$Config_8cpp.html" title="Class for handling the game configuration." alt="" coords="5,80,112,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,42,83,82,80,77,153,37"/>
+<area shape="rect" id="Node000003" href="$Game_8cpp.html" title="Class for handling the game logic." alt="" coords="98,155,201,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,48,155,155,150,153,180,46"/>
+<area shape="rect" id="Node000004" href="$Game_8h.html" title="Class for handling the game logic." alt="" coords="187,80,277,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,44,227,78,222,81,203,47"/>
+<area shape="rect" id="Node000008" href="$Window_8cpp.html" title="Class for handling ncurses windows." alt="" coords="301,80,414,107"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="234,36,329,77,327,82,232,41"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="208,119,165,156,162,152,204,115"/>
+<area shape="rect" id="Node000005" href="$GameManager_8h.html" title="Handles the game loop and game states." alt="" coords="225,155,364,181"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="255,117,286,153,282,156,251,120"/>
+<area shape="rect" id="Node000006" href="$GameManager_8cpp.html" title="Handles the game loop and game states." alt="" coords="144,229,296,256"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="273,194,235,231,231,227,269,190"/>
+<area shape="rect" id="Node000007" href="$main_8cpp.html" title="Main function, initializes the game manager." alt="" coords="320,229,416,256"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="320,191,357,227,353,231,316,194"/>
 </map>

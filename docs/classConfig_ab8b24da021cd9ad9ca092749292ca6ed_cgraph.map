@@ -1,10 +1,17 @@
 <map id="Config::loadConfig" name="Config::loadConfig">
-<area shape="rect" id="node1" title="Loads the config from a file." alt="" coords="5,31,145,57"/>
-<area shape="rect" id="node2" href="$classConfig.html#a62c7c2d485cb30374271dba0eafe63c8" title="Gets any value from the config map." alt="" coords="193,5,321,32"/>
-<area shape="rect" id="node3" href="$classMap.html#a2657d897204aaedba0e8e4f01b2e1efc" title="Loads the map from a file." alt="" coords="200,56,315,83"/>
-<area shape="rect" id="node4" href="$classMap.html#ab1c2595a555457c0a764a0530b57c0f9" title="Helper function for validating map string." alt="" coords="369,56,505,83"/>
-<area shape="rect" id="node5" href="$classMap.html#a41b623a0d503b94bf8412ca06296ae1f" title="Helper function for finding crossroads." alt="" coords="554,5,709,32"/>
-<area shape="rect" id="node7" href="$classMap.html#ae96ad32d3b1600cd41e4a1c3b6a30906" title="Checks if the map is traversable from the given position." alt="" coords="553,56,709,83"/>
-<area shape="rect" id="node8" href="$classMap.html#ad35b3432f383ea258d0ed06fe937c3b9" title="Helper function for validating the map borders." alt="" coords="554,107,709,133"/>
-<area shape="rect" id="node6" href="$classMap.html#a7d8219ae1c1ff2f45f7e11c5d03dcdb7" title="Checks if given coordinates are a crossroad." alt="" coords="757,5,892,32"/>
+<area shape="rect" id="Node000001" title="Loads the config from a file." alt="" coords="5,31,135,57"/>
+<area shape="rect" id="Node000002" href="$classConfig.html#a62c7c2d485cb30374271dba0eafe63c8" title="Gets any value from the config map." alt="" coords="183,5,300,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,32,167,27,168,32,135,37"/>
+<area shape="rect" id="Node000003" href="$classMap.html#a2657d897204aaedba0e8e4f01b2e1efc" title="Loads the map from a file." alt="" coords="190,56,293,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,51,175,57,174,62,135,56"/>
+<area shape="rect" id="Node000004" href="$classMap.html#ab1c2595a555457c0a764a0530b57c0f9" title="Helper function for validating map string." alt="" coords="348,56,473,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="294,67,332,67,332,72,294,72"/>
+<area shape="rect" id="Node000005" href="$classMap.html#a41b623a0d503b94bf8412ca06296ae1f" title="Helper function for finding crossroads." alt="" coords="522,5,665,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="461,53,527,34,529,39,462,58"/>
+<area shape="rect" id="Node000007" href="$classMap.html#ae96ad32d3b1600cd41e4a1c3b6a30906" title="Checks if the map is traversable from the given position." alt="" coords="521,56,666,83"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="473,67,506,67,506,72,473,72"/>
+<area shape="rect" id="Node000008" href="$classMap.html#ad35b3432f383ea258d0ed06fe937c3b9" title="Helper function for validating the map borders." alt="" coords="525,107,662,133"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="462,81,529,99,527,105,461,86"/>
+<area shape="rect" id="Node000006" href="$classMap.html#a7d8219ae1c1ff2f45f7e11c5d03dcdb7" title="Checks if given coordinates are a crossroad." alt="" coords="714,5,838,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="665,16,698,16,698,21,665,21"/>
 </map>

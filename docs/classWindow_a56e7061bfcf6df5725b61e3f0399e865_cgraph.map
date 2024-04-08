@@ -1,6 +1,9 @@
 <map id="Window::getChoice" name="Window::getChoice">
-<area shape="rect" id="node1" title="Gets the user choice from the main menu." alt="" coords="5,31,152,57"/>
-<area shape="rect" id="node2" href="$classWindow.html#ac9718717327b190f444c9fe3955477a7" title="Creates the main menu window." alt="" coords="200,5,411,32"/>
-<area shape="rect" id="node4" href="$classWindow.html#abde910f5e4b012211f4cd0425d0bece1" title="Draws the menu options." alt="" coords="206,56,405,83"/>
-<area shape="rect" id="node3" href="$classWindow.html#a07c2b4d065cbcb397eafc1a27a337bb7" title="Clears the current window." alt="" coords="459,5,645,32"/>
+<area shape="rect" id="Node000001" title="Gets the user choice from the main menu." alt="" coords="5,31,141,57"/>
+<area shape="rect" id="Node000002" href="$classWindow.html#ac9718717327b190f444c9fe3955477a7" title="Creates the main menu window." alt="" coords="189,5,380,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,33,173,29,173,35,141,39"/>
+<area shape="rect" id="Node000004" href="$classWindow.html#abde910f5e4b012211f4cd0425d0bece1" title="Draws the menu options." alt="" coords="194,56,375,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,49,179,54,178,59,141,55"/>
+<area shape="rect" id="Node000003" href="$classWindow.html#a07c2b4d065cbcb397eafc1a27a337bb7" title="Clears the current window." alt="" coords="428,5,598,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="380,16,413,16,413,21,380,21"/>
 </map>

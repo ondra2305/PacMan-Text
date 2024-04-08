@@ -1,6 +1,9 @@
 <map id="Cherry::interactWith" name="Cherry::interactWith">
-<area shape="rect" id="node1" title="Interacts with another object." alt="" coords="5,31,157,57"/>
-<area shape="rect" id="node2" href="$classGamePhase.html#a337c0a04d2c1d159ff9a98e99e11116a" title="Returns the current level." alt="" coords="207,5,371,32"/>
-<area shape="rect" id="node3" href="$classGamePhase.html#af152a5e182080af728f34e66b29079c5" title="Sets the current game phase." alt="" coords="205,56,372,83"/>
-<area shape="rect" id="node4" href="$classGamePhase.html#a097fcd119e1cce98533b731f7e6ae53d" title="Sets the time of the current phase." alt="" coords="420,56,620,83"/>
+<area shape="rect" id="Node000001" title="Interacts with another object." alt="" coords="5,31,144,57"/>
+<area shape="rect" id="Node000002" href="$classGamePhase.html#a337c0a04d2c1d159ff9a98e99e11116a" title="Returns the current level." alt="" coords="195,5,345,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,32,179,28,180,33,145,38"/>
+<area shape="rect" id="Node000003" href="$classGamePhase.html#af152a5e182080af728f34e66b29079c5" title="Sets the current game phase." alt="" coords="192,56,348,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,50,176,55,176,60,144,56"/>
+<area shape="rect" id="Node000004" href="$classGamePhase.html#a097fcd119e1cce98533b731f7e6ae53d" title="Sets the time of the current phase." alt="" coords="396,56,581,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="349,67,381,67,381,72,349,72"/>
 </map>

@@ -1,11 +1,24 @@
 <map id="src/Map.h" name="src/Map.h">
-<area shape="rect" id="node1" title="Class for handling the game map." alt="" coords="215,5,301,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="426,229,485,256"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,229,68,256"/>
-<area shape="rect" id="node4" href="$Window_8h.html" title="Class for handling ncurses windows." alt="" coords="215,80,301,107"/>
-<area shape="rect" id="node5" title=" " alt="" coords="75,155,159,181"/>
-<area shape="rect" id="node6" title=" " alt="" coords="183,155,258,181"/>
-<area shape="rect" id="node7" href="$Enums_8h.html" title=" " alt="" coords="289,229,368,256"/>
-<area shape="rect" id="node9" href="$Helpers_8h.html" title=" " alt="" coords="333,155,417,181"/>
-<area shape="rect" id="node8" title=" " alt="" coords="299,304,359,331"/>
+<area shape="rect" id="Node000001" title="Class for handling the game map." alt="" coords="201,5,280,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="402,229,455,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,30,314,48,358,75,399,110,417,131,431,154,439,184,437,214,432,214,434,185,426,156,412,134,395,114,355,79,312,53,273,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,229,63,256"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,35,165,53,119,79,76,113,57,133,42,156,33,185,32,214,27,214,27,184,37,154,53,130,72,109,116,74,163,48,203,30"/>
+<area shape="rect" id="Node000004" href="$Window_8h.html" title="Class for handling ncurses windows." alt="" coords="202,80,279,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="243,33,243,64,238,64,238,33"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="280,96,311,103,344,114,377,130,405,153,422,182,430,214,424,215,417,184,401,156,374,134,342,119,309,108,279,102"/>
+<area shape="poly" id="edge7_Node000004_Node000003" title=" " alt="" coords="202,100,168,105,130,116,93,132,61,156,45,184,38,215,33,214,40,182,57,153,90,128,128,111,167,100,201,95"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="71,155,149,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="219,110,148,149,145,144,217,105"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="173,155,239,181"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="237,108,221,142,216,139,232,106"/>
+<area shape="rect" id="Node000007" href="$Enums_8h.html" title=" " alt="" coords="272,229,345,256"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="249,106,299,214,294,216,244,108"/>
+<area shape="rect" id="Node000009" href="$Helpers_8h.html" title=" " alt="" coords="314,155,391,181"/>
+<area shape="poly" id="edge10_Node000004_Node000009" title=" " alt="" coords="262,105,322,144,319,148,259,109"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="283,304,335,331"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="311,257,311,288,306,288,306,257"/>
+<area shape="poly" id="edge12_Node000009_Node000002" title=" " alt="" coords="368,180,407,217,403,221,364,184"/>
+<area shape="poly" id="edge13_Node000009_Node000003" title=" " alt="" coords="314,181,78,234,77,229,313,176"/>
+<area shape="poly" id="edge11_Node000009_Node000007" title=" " alt="" coords="347,183,326,217,322,215,343,180"/>
 </map>

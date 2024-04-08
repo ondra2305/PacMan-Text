@@ -1,17 +1,45 @@
 <map id="src/FrightenedBehavior.h" name="src/FrightenedBehavior.h">
-<area shape="rect" id="node1" title="Class representing a frightened ghost behavior." alt="" coords="572,5,755,32"/>
-<area shape="rect" id="node2" href="$EnemyBehavior_8h.html" title="Base class for all enemy behaviors." alt="" coords="595,80,731,107"/>
-<area shape="rect" id="node3" href="$Map_8h.html" title="Class for handling the game map." alt="" coords="208,229,271,256"/>
-<area shape="rect" id="node9" href="$Enums_8h.html" title=" " alt="" coords="512,453,591,480"/>
-<area shape="rect" id="node12" title=" " alt="" coords="717,304,794,331"/>
-<area shape="rect" id="node13" href="$MovingObject_8h.html" title="Base class for all moving objects." alt="" coords="481,155,605,181"/>
-<area shape="rect" id="node4" title=" " alt="" coords="93,453,151,480"/>
-<area shape="rect" id="node5" title=" " alt="" coords="5,453,68,480"/>
-<area shape="rect" id="node6" href="$Window_8h.html" title="Class for handling ncurses windows." alt="" coords="197,304,282,331"/>
-<area shape="rect" id="node7" title=" " alt="" coords="251,379,335,405"/>
-<area shape="rect" id="node8" title=" " alt="" coords="410,379,485,405"/>
-<area shape="rect" id="node11" href="$Helpers_8h.html" title=" " alt="" coords="143,379,227,405"/>
-<area shape="rect" id="node10" title=" " alt="" coords="521,528,581,555"/>
-<area shape="rect" id="node14" href="$GameObject_8h.html" title="Base class for all game objects." alt="" coords="581,229,695,256"/>
-<area shape="rect" id="node15" href="$GamePhase_8h.html" title="Handles the game phase and level." alt="" coords="530,304,642,331"/>
+<area shape="rect" id="Node000001" title="Class representing a frightened ghost behavior." alt="" coords="553,5,718,32"/>
+<area shape="rect" id="Node000002" href="$EnemyBehavior_8h.html" title="Base class for all enemy behaviors." alt="" coords="574,80,697,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="638,33,638,64,633,64,633,33"/>
+<area shape="rect" id="Node000003" href="$Map_8h.html" title="Class for handling the game map." alt="" coords="197,229,255,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="595,110,452,157,270,226,268,221,450,152,594,105"/>
+<area shape="rect" id="Node000009" href="$Enums_8h.html" title=" " alt="" coords="487,453,560,480"/>
+<area shape="poly" id="edge16_Node000002_Node000009" title=" " alt="" coords="671,105,713,125,756,154,775,172,791,193,801,216,805,241,805,319,798,354,780,384,753,408,720,427,683,441,646,452,576,464,575,458,644,446,682,436,718,422,750,403,776,381,793,352,799,318,799,242,796,217,786,195,771,175,753,158,710,129,669,110"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="685,304,754,331"/>
+<area shape="poly" id="edge17_Node000002_Node000012" title=" " alt="" coords="645,106,675,158,706,229,719,288,714,289,701,230,670,160,641,108"/>
+<area shape="rect" id="Node000013" href="$MovingObject_8h.html" title="Base class for all moving objects." alt="" coords="463,155,576,181"/>
+<area shape="poly" id="edge18_Node000002_Node000013" title=" " alt="" coords="617,109,554,148,551,144,614,105"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="87,453,141,480"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="211,259,159,307,132,341,113,380,108,409,110,438,105,439,102,409,107,378,128,338,155,304,207,255"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,453,63,480"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="201,259,167,279,133,306,105,339,81,375,48,440,43,438,77,373,101,336,129,302,164,274,198,254"/>
+<area shape="rect" id="Node000006" href="$Window_8h.html" title="Class for handling ncurses windows." alt="" coords="187,304,265,331"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="229,257,229,288,223,288,223,257"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="190,333,155,352,140,365,127,380,116,409,114,438,109,438,111,408,122,377,136,361,152,348,187,329"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="195,334,154,354,112,381,80,411,54,442,50,439,76,408,108,377,151,349,193,329"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="238,379,316,405"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="237,330,262,365,257,368,233,333"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="390,379,457,405"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="261,329,377,371,375,376,259,334"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="248,329,379,403,476,445,474,450,377,408,246,333"/>
+<area shape="rect" id="Node000011" href="$Helpers_8h.html" title=" " alt="" coords="137,379,214,405"/>
+<area shape="poly" id="edge12_Node000006_Node000011" title=" " alt="" coords="219,333,195,368,190,365,215,330"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="497,528,550,555"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="526,481,526,512,521,512,521,481"/>
+<area shape="poly" id="edge14_Node000011_Node000004" title=" " alt="" coords="167,408,136,443,132,440,163,404"/>
+<area shape="poly" id="edge15_Node000011_Node000005" title=" " alt="" coords="152,408,73,448,71,443,150,403"/>
+<area shape="poly" id="edge13_Node000011_Node000009" title=" " alt="" coords="215,400,227,403,472,453,471,458,225,408,214,405"/>
+<area shape="poly" id="edge27_Node000013_Node000003" title=" " alt="" coords="469,185,271,233,269,228,467,179"/>
+<area shape="poly" id="edge26_Node000013_Node000008" title=" " alt="" coords="500,184,474,204,452,231,438,264,430,300,425,363,420,363,425,299,433,263,448,228,471,200,497,180"/>
+<area shape="poly" id="edge24_Node000013_Node000009" title=" " alt="" coords="518,182,502,246,496,288,497,330,506,388,518,438,513,439,501,389,491,331,491,288,496,245,513,181"/>
+<area shape="poly" id="edge25_Node000013_Node000012" title=" " alt="" coords="577,178,628,196,654,210,677,227,700,257,714,288,709,290,695,260,673,231,651,215,626,201,575,183"/>
+<area shape="rect" id="Node000014" href="$GameObject_8h.html" title="Base class for all game objects." alt="" coords="557,229,663,256"/>
+<area shape="poly" id="edge19_Node000013_Node000014" title=" " alt="" coords="537,180,584,218,581,222,533,184"/>
+<area shape="rect" id="Node000015" href="$GamePhase_8h.html" title="Handles the game phase and level." alt="" coords="506,304,610,331"/>
+<area shape="poly" id="edge28_Node000013_Node000015" title=" " alt="" coords="525,181,553,288,548,290,520,183"/>
+<area shape="poly" id="edge20_Node000014_Node000009" title=" " alt="" coords="618,256,627,290,628,311,625,331,610,365,591,395,550,444,546,440,586,392,605,362,619,330,623,311,621,291,613,257"/>
+<area shape="poly" id="edge23_Node000014_Node000012" title=" " alt="" coords="631,254,689,293,686,298,628,259"/>
+<area shape="poly" id="edge21_Node000014_Node000015" title=" " alt="" coords="603,258,578,293,574,290,599,255"/>
+<area shape="poly" id="edge22_Node000015_Node000009" title=" " alt="" coords="558,332,532,439,527,438,552,331"/>
 </map>

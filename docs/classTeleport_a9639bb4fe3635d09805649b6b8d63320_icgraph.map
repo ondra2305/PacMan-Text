@@ -1,4 +1,5 @@
 <map id="Teleport::isAccessible" name="Teleport::isAccessible">
-<area shape="rect" id="node1" title="Checks if the object is accessible." alt="" coords="236,5,399,32"/>
-<area shape="rect" id="node2" href="$classTeleport.html#a148df65ca963f939b4365c66bc2bc065" title="Checks if the object is accessible for the given object." alt="" coords="5,5,188,32"/>
+<area shape="rect" id="Node000001" title="Checks if the object is accessible." alt="" coords="222,5,371,32"/>
+<area shape="rect" id="Node000002" href="$classTeleport.html#a148df65ca963f939b4365c66bc2bc065" title="Checks if the object is accessible for the given object." alt="" coords="5,5,174,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,21,174,21,174,16,206,16"/>
 </map>

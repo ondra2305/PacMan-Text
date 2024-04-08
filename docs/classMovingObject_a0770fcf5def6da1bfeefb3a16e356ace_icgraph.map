@@ -1,5 +1,7 @@
 <map id="MovingObject::returnToStart" name="MovingObject::returnToStart">
-<area shape="rect" id="node1" title="Returns the object to its starting position." alt="" coords="204,31,408,57"/>
-<area shape="rect" id="node2" href="$classGhost.html#a835ab7beec9ae0515085e479fcd2b1c6" title="Interacts with another object." alt="" coords="7,5,155,32"/>
-<area shape="rect" id="node3" href="$classPlayer.html#a6cd163c50b10495a9d94f471b74c30ee" title="Interacts with another object." alt="" coords="5,56,156,83"/>
+<area shape="rect" id="Node000001" title="Returns the object to its starting position." alt="" coords="190,31,374,57"/>
+<area shape="rect" id="Node000002" href="$classGhost.html#a835ab7beec9ae0515085e479fcd2b1c6" title="Interacts with another object." alt="" coords="6,5,141,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,34,141,29,142,24,174,28"/>
+<area shape="rect" id="Node000003" href="$classPlayer.html#a6cd163c50b10495a9d94f471b74c30ee" title="Interacts with another object." alt="" coords="5,56,142,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,60,142,64,142,58,174,54"/>
 </map>

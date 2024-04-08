@@ -1,9 +1,15 @@
 <map id="Game" name="Game">
-<area shape="rect" id="node1" title=" " alt="" coords="219,184,281,211"/>
-<area shape="rect" id="node2" href="$classConfig.html" title=" " alt="" coords="5,95,68,121"/>
-<area shape="rect" id="node3" href="$classMap.html" title=" " alt="" coords="123,95,174,121"/>
-<area shape="rect" id="node4" href="$structMap_1_1Bounds.html" title=" " alt="" coords="95,5,202,32"/>
-<area shape="rect" id="node5" href="$classLeaderboard.html" title=" " alt="" coords="199,95,301,121"/>
-<area shape="rect" id="node6" href="$classGamePhase.html" title=" " alt="" coords="353,95,453,121"/>
-<area shape="rect" id="node7" href="$classWindow.html" title=" " alt="" coords="478,95,553,121"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="226,187,282,213"/>
+<area shape="rect" id="Node000002" href="$classConfig.html" title=" " alt="" coords="5,96,65,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,134,63,149,77,160,114,178,154,189,225,196,225,201,153,194,113,183,74,165,59,152,47,138"/>
+<area shape="rect" id="Node000003" href="$classWindow.html" title=" " alt="" coords="106,96,175,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,136,167,161,195,179,226,190,224,195,193,184,163,165,146,139"/>
+<area shape="rect" id="Node000004" href="$classMap.html" title=" " alt="" coords="229,96,276,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="255,138,256,186,251,186,250,138"/>
+<area shape="rect" id="Node000005" href="$structMap_1_1Bounds.html" title=" " alt="" coords="203,5,302,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="255,48,255,95,250,95,250,48"/>
+<area shape="rect" id="Node000006" href="$classLeaderboard.html" title=" " alt="" coords="300,96,392,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="337,138,318,165,284,189,281,184,314,161,332,135"/>
+<area shape="rect" id="Node000007" href="$classGamePhase.html" title=" " alt="" coords="436,96,530,123"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="470,137,457,152,442,165,401,183,358,194,283,202,282,196,357,189,399,178,439,160,454,149,466,134"/>
 </map>

@@ -1,8 +1,13 @@
 <map id="Map::isWallAt" name="Map::isWallAt">
-<area shape="rect" id="node1" title="Checks if there is a wall at the given coordinates." alt="" coords="428,81,539,108"/>
-<area shape="rect" id="node2" href="$classPlayer.html#aa4002becf320cc56377ecda8622a1ba3" title="Returns the calculated next move of the object." alt="" coords="215,5,374,32"/>
-<area shape="rect" id="node3" href="$structChaseBehavior.html#a2352bad80fc83366546accdba99f7d33" title="Gets the ideal direction to move the enemy." alt="" coords="212,56,377,83"/>
-<area shape="rect" id="node4" href="$structScatterBehavior.html#abf893e24e51acddd4c3e1cd57e262762" title="Gets the ideal direction to move the enemy." alt="" coords="209,107,380,133"/>
-<area shape="rect" id="node5" href="$classGhost.html#a148ba3ee3c09025057a85025e2b74f81" title=" " alt="" coords="233,157,356,184"/>
-<area shape="rect" id="node6" href="$classGhost.html#a8f00182b9e19aec6cab0f795ee8dd5ae" title="Returns the calculated next move of the object." alt="" coords="5,157,161,184"/>
+<area shape="rect" id="Node000001" title="Checks if there is a wall at the given coordinates." alt="" coords="398,81,500,108"/>
+<area shape="rect" id="Node000002" href="$classPlayer.html#aa4002becf320cc56377ecda8622a1ba3" title="Returns the calculated next move of the object." alt="" coords="201,5,345,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,76,349,46,319,35,320,30,351,42,411,71"/>
+<area shape="rect" id="Node000003" href="$structChaseBehavior.html#a2352bad80fc83366546accdba99f7d33" title="Gets the ideal direction to move the enemy." alt="" coords="198,56,348,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="382,88,348,83,349,77,383,83"/>
+<area shape="rect" id="Node000004" href="$structScatterBehavior.html#abf893e24e51acddd4c3e1cd57e262762" title="Gets the ideal direction to move the enemy." alt="" coords="196,107,350,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="383,107,351,112,350,106,382,102"/>
+<area shape="rect" id="Node000005" href="$classGhost.html#a148ba3ee3c09025057a85025e2b74f81" title=" " alt="" coords="217,157,329,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="411,118,351,148,320,159,319,154,349,143,409,114"/>
+<area shape="rect" id="Node000006" href="$classGhost.html#a8f00182b9e19aec6cab0f795ee8dd5ae" title="Returns the calculated next move of the object." alt="" coords="5,157,148,184"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="202,173,148,173,148,168,202,168"/>
 </map>

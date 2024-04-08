@@ -1,4 +1,5 @@
 <map id="GameObject::setColor" name="GameObject::setColor">
-<area shape="rect" id="node1" title="Sets the object color." alt="" coords="203,13,368,39"/>
-<area shape="rect" id="node2" href="$structFrightenedBehavior.html#ab92da9144a40747698da6f7c8476aabd" title="Handles the behavior of the enemy when changing the game phase." alt="" coords="5,5,155,47"/>
+<area shape="rect" id="Node000001" title="Sets the object color." alt="" coords="187,13,338,40"/>
+<area shape="rect" id="Node000002" href="$structFrightenedBehavior.html#ab92da9144a40747698da6f7c8476aabd" title="Handles the behavior of the enemy when changing the game phase." alt="" coords="5,5,139,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,29,139,29,139,24,171,24"/>
 </map>

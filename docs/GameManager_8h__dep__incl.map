@@ -1,5 +1,7 @@
 <map id="src/GameManager.h" name="src/GameManager.h">
-<area shape="rect" id="node1" title="Handles the game loop and game states." alt="" coords="93,5,245,32"/>
-<area shape="rect" id="node2" href="$GameManager_8cpp.html" title="Handles the game loop and game states." alt="" coords="5,80,172,107"/>
-<area shape="rect" id="node3" href="$main_8cpp.html" title="Main function, initializes the game manager." alt="" coords="196,80,301,107"/>
+<area shape="rect" id="Node000001" title="Handles the game loop and game states." alt="" coords="86,5,224,32"/>
+<area shape="rect" id="Node000002" href="$GameManager_8cpp.html" title="Handles the game loop and game states." alt="" coords="5,80,158,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,45,96,82,92,78,129,41"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html" title="Main function, initializes the game manager." alt="" coords="181,80,278,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,41,218,78,215,82,177,45"/>
 </map>

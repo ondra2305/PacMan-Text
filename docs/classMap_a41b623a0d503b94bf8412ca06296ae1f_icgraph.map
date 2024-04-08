@@ -1,12 +1,23 @@
 <map id="Map::findCrossroads" name="Map::findCrossroads">
-<area shape="rect" id="node1" title="Helper function for finding crossroads." alt="" coords="913,56,1068,83"/>
-<area shape="rect" id="node2" href="$classMap.html#ab1c2595a555457c0a764a0530b57c0f9" title="Helper function for validating map string." alt="" coords="729,56,865,83"/>
-<area shape="rect" id="node3" href="$classMap.html#ab5b009bf7edded05f4461b62de5eff49" title="Loads the map from a string." alt="" coords="524,19,681,45"/>
-<area shape="rect" id="node5" href="$classMap.html#a2657d897204aaedba0e8e4f01b2e1efc" title="Loads the map from a file." alt="" coords="545,81,660,108"/>
-<area shape="rect" id="node4" href="$classGame.html#a1118c369ae5b2fe433aac540cb32d187" title="Starts the game with a new map." alt="" coords="122,5,250,32"/>
-<area shape="rect" id="node6" href="$classGame.html#a4c2a7ead717a4c13f1ffddafd11e17c8" title="Initializes the game, loading config, and the map." alt="" coords="312,56,476,83"/>
-<area shape="rect" id="node8" href="$classConfig.html#ab8b24da021cd9ad9ca092749292ca6ed" title="Loads the config from a file." alt="" coords="324,107,464,133"/>
-<area shape="rect" id="node9" href="$classGameManager.html#a8460b2f4f44c19dd405e4163fe6cb5cf" title=" " alt="" coords="108,132,264,159"/>
-<area shape="rect" id="node7" href="$classGame.html#a2a30c89761624ee64cd7acb147aaf89c" title="Starts the game." alt="" coords="137,56,235,83"/>
-<area shape="rect" id="node10" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,132,60,159"/>
+<area shape="rect" id="Node000001" title="Helper function for finding crossroads." alt="" coords="849,56,991,83"/>
+<area shape="rect" id="Node000002" href="$classMap.html#ab1c2595a555457c0a764a0530b57c0f9" title="Helper function for validating map string." alt="" coords="676,56,801,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="833,72,802,72,802,67,833,67"/>
+<area shape="rect" id="Node000003" href="$classMap.html#ab5b009bf7edded05f4461b62de5eff49" title="Loads the map from a string." alt="" coords="485,19,628,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="660,56,624,49,625,43,661,51"/>
+<area shape="rect" id="Node000005" href="$classMap.html#a2657d897204aaedba0e8e4f01b2e1efc" title="Loads the map from a file." alt="" coords="505,81,608,108"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="661,83,609,90,608,85,660,78"/>
+<area shape="rect" id="Node000004" href="$classGame.html#a1118c369ae5b2fe433aac540cb32d187" title="Starts the game with a new map." alt="" coords="114,5,232,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="470,32,232,23,232,18,470,26"/>
+<area shape="rect" id="Node000006" href="$classGame.html#a4c2a7ead717a4c13f1ffddafd11e17c8" title="Initializes the game, loading config, and the map." alt="" coords="291,56,437,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="489,89,438,82,438,76,490,83"/>
+<area shape="rect" id="Node000008" href="$classConfig.html#ab8b24da021cd9ad9ca092749292ca6ed" title="Loads the config from a file." alt="" coords="300,107,429,133"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="490,106,430,114,429,109,489,101"/>
+<area shape="rect" id="Node000009" href="$classGameManager.html#a8460b2f4f44c19dd405e4163fe6cb5cf" title=" " alt="" coords="103,132,243,159"/>
+<area shape="poly" id="edge11_Node000005_Node000009" title=" " alt="" coords="519,118,481,135,438,148,388,155,336,158,244,156,244,150,336,153,387,150,437,143,479,130,517,113"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="295,54,225,35,227,30,297,49"/>
+<area shape="rect" id="Node000007" href="$classGame.html#a2a30c89761624ee64cd7acb147aaf89c" title="Starts the game." alt="" coords="128,56,218,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="275,72,218,72,218,67,275,67"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="284,133,244,139,243,133,284,128"/>
+<area shape="rect" id="Node000010" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,132,55,159"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="87,148,55,148,55,143,87,143"/>
 </map>

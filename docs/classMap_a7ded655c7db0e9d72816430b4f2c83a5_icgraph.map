@@ -1,8 +1,15 @@
 <map id="Map::clearMap" name="Map::clearMap">
-<area shape="rect" id="node1" title="Clears the map." alt="" coords="521,56,640,83"/>
-<area shape="rect" id="node2" href="$classGame.html#aa2d938aa918268060e63980c7efd86f8" title="Ends the game." alt="" coords="185,5,279,32"/>
-<area shape="rect" id="node4" href="$classGame.html#a66e2ecb02f046b0c17922a4255720e5a" title="Ends the game on error." alt="" coords="344,56,473,83"/>
-<area shape="rect" id="node6" href="$classGame.html#a1118c369ae5b2fe433aac540cb32d187" title="Starts the game with a new map." alt="" coords="168,107,296,133"/>
-<area shape="rect" id="node3" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="5,5,120,32"/>
-<area shape="rect" id="node5" href="$classGame.html#a2a30c89761624ee64cd7acb147aaf89c" title="Starts the game." alt="" coords="183,56,281,83"/>
+<area shape="rect" id="Node000001" title="Clears the map." alt="" coords="489,56,597,83"/>
+<area shape="rect" id="Node000002" href="$classGame.html#aa2d938aa918268060e63980c7efd86f8" title="Ends the game." alt="" coords="173,5,258,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="477,54,441,47,343,33,258,24,259,19,343,27,442,41,478,49"/>
+<area shape="rect" id="Node000004" href="$classGame.html#a66e2ecb02f046b0c17922a4255720e5a" title="Ends the game on error." alt="" coords="322,56,441,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="474,72,442,72,442,67,474,67"/>
+<area shape="rect" id="Node000006" href="$classGame.html#a1118c369ae5b2fe433aac540cb32d187" title="Starts the game with a new map." alt="" coords="157,107,274,133"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="478,90,442,97,354,110,275,118,274,113,353,105,441,92,477,84"/>
+<area shape="rect" id="Node000003" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="5,5,109,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="157,21,109,21,109,16,157,16"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="320,53,258,34,259,29,321,48"/>
+<area shape="rect" id="Node000005" href="$classGame.html#a2a30c89761624ee64cd7acb147aaf89c" title="Starts the game." alt="" coords="170,56,261,83"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="306,72,261,72,261,67,306,67"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="321,90,262,109,261,104,320,85"/>
 </map>

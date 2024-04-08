@@ -1,11 +1,19 @@
 <map id="GameObject" name="GameObject">
-<area shape="rect" id="node1" title=" " alt="" coords="239,5,341,32"/>
-<area shape="rect" id="node2" href="$classInteractiveObject.html" title=" " alt="" coords="140,80,275,107"/>
-<area shape="rect" id="node7" href="$classMovingObject.html" title=" " alt="" coords="318,80,430,107"/>
-<area shape="rect" id="node3" href="$classCherry.html" title=" " alt="" coords="5,155,71,181"/>
-<area shape="rect" id="node4" href="$classCoin.html" title=" " alt="" coords="95,155,146,181"/>
-<area shape="rect" id="node5" href="$classTeleport.html" title=" " alt="" coords="170,155,245,181"/>
-<area shape="rect" id="node6" href="$classWall.html" title=" " alt="" coords="269,155,319,181"/>
-<area shape="rect" id="node8" href="$classGhost.html" title=" " alt="" coords="344,155,404,181"/>
-<area shape="rect" id="node9" href="$classPlayer.html" title=" " alt="" coords="428,155,491,181"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="227,5,321,32"/>
+<area shape="rect" id="Node000002" href="$classInteractiveObject.html" title=" " alt="" coords="135,80,256,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,45,211,82,207,78,247,41"/>
+<area shape="rect" id="Node000007" href="$classMovingObject.html" title=" " alt="" coords="302,80,404,107"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="301,41,341,78,337,82,297,45"/>
+<area shape="rect" id="Node000003" href="$classCherry.html" title=" " alt="" coords="5,155,66,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,116,65,156,62,152,153,111"/>
+<area shape="rect" id="Node000004" href="$classCoin.html" title=" " alt="" coords="90,155,138,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="172,119,130,156,126,152,168,115"/>
+<area shape="rect" id="Node000005" href="$classTeleport.html" title=" " alt="" coords="162,155,229,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="198,122,198,154,193,154,193,122"/>
+<area shape="rect" id="Node000006" href="$classWall.html" title=" " alt="" coords="254,155,300,181"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="223,115,265,152,261,156,219,119"/>
+<area shape="rect" id="Node000008" href="$classGhost.html" title=" " alt="" coords="325,155,381,181"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="356,122,356,154,350,154,350,122"/>
+<area shape="rect" id="Node000009" href="$classPlayer.html" title=" " alt="" coords="405,155,463,181"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="380,115,422,152,418,156,376,119"/>
 </map>

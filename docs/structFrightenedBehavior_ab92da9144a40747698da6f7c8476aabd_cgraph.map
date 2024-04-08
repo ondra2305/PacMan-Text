@@ -1,6 +1,9 @@
 <map id="FrightenedBehavior::handleBehavior" name="FrightenedBehavior::handleBehavior">
-<area shape="rect" id="node1" title="Handles the behavior of the enemy when changing the game phase." alt="" coords="5,49,155,90"/>
-<area shape="rect" id="node2" href="$classGameObject.html#a5c863188a52395ff7a0d2a508c06c2fa" title="Sets the object color." alt="" coords="221,5,387,32"/>
-<area shape="rect" id="node3" href="$classMovingObject.html#a6866cb38b81682fc594939196117e2e3" title="Sets the invincibility of the object." alt="" coords="203,56,405,83"/>
-<area shape="rect" id="node4" href="$classMovingObject.html#a0fa9f24bfcb0d40d1af3ee26dedfa47d" title="Sets the speed of the object." alt="" coords="214,107,394,133"/>
+<area shape="rect" id="Node000001" title="Handles the behavior of the enemy when changing the game phase." alt="" coords="5,48,139,91"/>
+<area shape="rect" id="Node000002" href="$classGameObject.html#a5c863188a52395ff7a0d2a508c06c2fa" title="Sets the object color." alt="" coords="202,5,354,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,50,205,34,206,39,140,55"/>
+<area shape="rect" id="Node000003" href="$classMovingObject.html#a6866cb38b81682fc594939196117e2e3" title="Sets the invincibility of the object." alt="" coords="187,56,369,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,67,171,67,171,72,139,72"/>
+<area shape="rect" id="Node000004" href="$classMovingObject.html#a0fa9f24bfcb0d40d1af3ee26dedfa47d" title="Sets the speed of the object." alt="" coords="196,107,360,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="140,83,206,100,205,105,139,88"/>
 </map>

@@ -1,36 +1,82 @@
 <map id="Game::startNew" name="Game::startNew">
-<area shape="rect" id="node1" title="Starts the game with a new map." alt="" coords="5,463,133,490"/>
-<area shape="rect" id="node2" href="$classWindow.html#a07c2b4d065cbcb397eafc1a27a337bb7" title="Clears the current window." alt="" coords="671,171,858,198"/>
-<area shape="rect" id="node3" href="$classMap.html#a7ded655c7db0e9d72816430b4f2c83a5" title="Clears the map." alt="" coords="448,70,567,97"/>
-<area shape="rect" id="node4" href="$classGame.html#a66e2ecb02f046b0c17922a4255720e5a" title="Ends the game on error." alt="" coords="210,149,339,175"/>
-<area shape="rect" id="node5" href="$classWindow.html#aba37c5e32e43d21a46968fd8ada1d327" title="Prints the message to the current window." alt="" coords="423,171,592,198"/>
-<area shape="rect" id="node6" href="$classConfig.html#a61ee9aeb497a96e3f7a49f8d8315b4f6" title="Exports the config to a file." alt="" coords="197,653,352,679"/>
-<area shape="rect" id="node7" href="$Helpers_8cpp.html#aff67a1d7716f148acfbd9ac7731d8237" title=" " alt="" coords="181,703,368,730"/>
-<area shape="rect" id="node8" href="$classConfig.html#a683f3adeacbde8622e8c46cc2f9dee25" title="Gets the map file path." alt="" coords="447,222,567,249"/>
-<area shape="rect" id="node9" href="$classConfig.html#a62c7c2d485cb30374271dba0eafe63c8" title="Gets any value from the config map." alt="" coords="701,475,829,502"/>
-<area shape="rect" id="node10" href="$classGame.html#a4c2a7ead717a4c13f1ffddafd11e17c8" title="Initializes the game, loading config, and the map." alt="" coords="193,425,357,451"/>
-<area shape="rect" id="node31" href="$classGamePhase.html#af152a5e182080af728f34e66b29079c5" title="Sets the current game phase." alt="" coords="424,678,591,705"/>
-<area shape="rect" id="node33" href="$classMap.html#ab5b009bf7edded05f4461b62de5eff49" title="Loads the map from a string." alt="" coords="196,602,353,629"/>
-<area shape="rect" id="node34" href="$classMap.html#a273496375c910340e3d76d777052b274" title="Saves the map to a file." alt="" coords="216,754,333,781"/>
-<area shape="rect" id="node11" href="$classGame.html#a6d54497ce3a66f6dd45eacfdccc8d0bd" title="Draws the game." alt="" coords="457,577,558,603"/>
-<area shape="rect" id="node18" href="$classWindow.html#a2238e5489102fe2a77e7898a07dc37b5" title="Gets text input from the user." alt="" coords="440,323,575,350"/>
-<area shape="rect" id="node19" href="$classMap.html#a2657d897204aaedba0e8e4f01b2e1efc" title="Loads the map from a file." alt="" coords="450,627,565,654"/>
-<area shape="rect" id="node25" href="$classGame.html#a1290bdc979d75815efe4d21e83a806cb" title="Loads the object from the map." alt="" coords="434,425,581,451"/>
-<area shape="rect" id="node28" href="$classLeaderboard.html#a43ac1b937341b8e5b3bd8b33200034d1" title="Loads the scores from a file." alt="" coords="416,374,599,401"/>
-<area shape="rect" id="node12" href="$classGamePhase.html#a337c0a04d2c1d159ff9a98e99e11116a" title="Returns the current level." alt="" coords="683,526,847,553"/>
-<area shape="rect" id="node13" href="$classGamePhase.html#a1e01dd9cbefce12ad832102c3a9ed3a2" title="Returns the number of remaining items." alt="" coords="647,577,883,603"/>
-<area shape="rect" id="node14" href="$classWindow.html#aaa279ff498c917ba2535b26e5f396c7c" title="Prints character at given position, default color." alt="" coords="687,627,842,654"/>
-<area shape="rect" id="node15" href="$classWindow.html#a7f8803b32163553cf314fa01b703c9a8" title="Prints the game UI." alt="" coords="702,678,827,705"/>
-<area shape="rect" id="node17" href="$classWindow.html#a3c38bfdaf7cb6ebcfdbcb40916a72bf7" title="Refreshes the current window." alt="" coords="933,703,1085,730"/>
-<area shape="rect" id="node16" href="$classWindow.html#aad6d9b11314512a7fbc775a3fef9ca1c" title="Helper function for printing lives." alt="" coords="936,653,1081,679"/>
-<area shape="rect" id="node20" href="$classMap.html#ab1c2595a555457c0a764a0530b57c0f9" title="Helper function for validating map string." alt="" coords="697,779,833,806"/>
-<area shape="rect" id="node21" href="$classMap.html#a41b623a0d503b94bf8412ca06296ae1f" title="Helper function for finding crossroads." alt="" coords="931,754,1086,781"/>
-<area shape="rect" id="node23" href="$classMap.html#ae96ad32d3b1600cd41e4a1c3b6a30906" title="Checks if the map is traversable from the given position." alt="" coords="931,805,1087,831"/>
-<area shape="rect" id="node24" href="$classMap.html#ad35b3432f383ea258d0ed06fe937c3b9" title="Helper function for validating the map borders." alt="" coords="931,855,1086,882"/>
-<area shape="rect" id="node22" href="$classMap.html#a7d8219ae1c1ff2f45f7e11c5d03dcdb7" title="Checks if given coordinates are a crossroad." alt="" coords="1135,754,1269,781"/>
-<area shape="rect" id="node26" href="$classGamePhase.html#a2597fc4aa3837ecc9146f29b18840855" title="Adds an item to the remaining items." alt="" coords="683,374,846,401"/>
-<area shape="rect" id="node27" href="$classMap.html#ad1c83970b8e220d3ba55b755e84453d7" title="Gets the map." alt="" coords="711,425,818,451"/>
-<area shape="rect" id="node29" href="$classLeaderboard.html#aaf22ea54d8b0e7e5d2bf5c3b9dcbdee2" title="Creates a save file." alt="" coords="673,323,857,350"/>
-<area shape="rect" id="node30" href="$classLeaderboard.html#a9d9d83737bf8412fa71cb1c238c059f6" title="Reads a value from binary save file." alt="" coords="695,273,835,299"/>
-<area shape="rect" id="node32" href="$classGamePhase.html#a097fcd119e1cce98533b731f7e6ae53d" title="Sets the time of the current phase." alt="" coords="665,830,865,857"/>
+<area shape="rect" id="Node000001" title="Starts the game with a new map." alt="" coords="5,459,123,485"/>
+<area shape="rect" id="Node000002" href="$classWindow.html#a07c2b4d065cbcb397eafc1a27a337bb7" title="Clears the current window." alt="" coords="620,167,791,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,458,76,380,97,267,128,156,147,112,169,83,215,47,260,22,304,8,348,3,394,6,442,16,551,51,592,71,630,98,685,153,682,156,626,102,590,76,549,56,441,21,393,11,348,8,305,13,262,27,218,51,173,87,152,115,134,157,103,268,81,381,70,459"/>
+<area shape="rect" id="Node000003" href="$classMap.html#a7ded655c7db0e9d72816430b4f2c83a5" title="Clears the map." alt="" coords="414,65,521,92"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="62,458,64,397,77,308,90,260,109,212,135,168,169,130,194,111,222,97,282,78,343,70,398,69,398,75,344,75,284,83,224,101,197,116,172,134,139,171,114,214,95,261,82,309,70,398,68,458"/>
+<area shape="rect" id="Node000004" href="$classGame.html#a66e2ecb02f046b0c17922a4255720e5a" title="Ends the game on error." alt="" coords="194,144,314,171"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="66,457,100,356,130,289,169,225,192,199,217,178,221,182,196,203,173,228,134,291,105,358,71,459"/>
+<area shape="rect" id="Node000005" href="$classWindow.html#aba37c5e32e43d21a46968fd8ada1d327" title="Prints the message to the current window." alt="" coords="391,167,545,193"/>
+<area shape="poly" id="edge44_Node000001_Node000005" title=" " alt="" coords="70,457,108,394,136,357,169,322,223,279,270,251,384,203,401,196,403,201,386,208,272,256,226,283,172,326,140,360,112,397,75,459"/>
+<area shape="rect" id="Node000006" href="$classConfig.html#a61ee9aeb497a96e3f7a49f8d8315b4f6" title="Exports the config to a file." alt="" coords="183,648,325,675"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="73,485,86,515,107,556,136,598,172,634,179,638,176,643,169,638,132,601,102,559,81,518,68,487"/>
+<area shape="rect" id="Node000007" href="$Helpers_8cpp.html#aff67a1d7716f148acfbd9ac7731d8237" title=" " alt="" coords="171,699,337,725"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="71,485,81,525,100,578,130,635,150,662,172,685,178,689,174,693,169,689,146,665,126,638,95,580,76,526,66,486"/>
+<area shape="rect" id="Node000008" href="$classConfig.html#a683f3adeacbde8622e8c46cc2f9dee25" title="Gets the map file path." alt="" coords="412,217,524,244"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="82,456,205,368,292,312,384,260,411,248,413,253,386,265,295,317,208,373,85,460"/>
+<area shape="rect" id="Node000009" href="$classConfig.html#a62c7c2d485cb30374271dba0eafe63c8" title="Gets any value from the config map." alt="" coords="647,471,764,497"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="123,471,385,479,631,481,631,486,385,484,123,477"/>
+<area shape="rect" id="Node000010" href="$classGame.html#a4c2a7ead717a4c13f1ffddafd11e17c8" title="Initializes the game, loading config, and the map." alt="" coords="181,420,327,447"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="122,457,169,448,170,453,124,463"/>
+<area shape="rect" id="Node000031" href="$classGamePhase.html#af152a5e182080af728f34e66b29079c5" title="Sets the current game phase." alt="" coords="390,673,546,700"/>
+<area shape="poly" id="edge46_Node000001_Node000031" title=" " alt="" coords="90,483,172,525,219,541,258,547,296,558,339,583,356,603,363,622,371,641,387,659,393,663,390,668,383,663,366,644,358,624,351,606,335,587,294,563,257,553,218,546,170,530,87,488"/>
+<area shape="rect" id="Node000033" href="$classMap.html#ab5b009bf7edded05f4461b62de5eff49" title="Loads the map from a string." alt="" coords="183,597,325,624"/>
+<area shape="poly" id="edge42_Node000001_Node000033" title=" " alt="" coords="78,484,117,529,143,554,172,576,194,588,192,593,169,581,140,558,113,532,74,488"/>
+<area shape="rect" id="Node000034" href="$classMap.html#a273496375c910340e3d76d777052b274" title="Saves the map to a file." alt="" coords="200,749,308,776"/>
+<area shape="poly" id="edge45_Node000001_Node000034" title=" " alt="" coords="69,485,77,533,94,600,107,637,125,673,146,706,172,735,188,746,185,750,169,739,142,709,120,675,103,639,89,602,72,534,64,486"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="314,153,385,152,468,149,551,152,620,161,619,166,550,157,468,155,385,157,314,158"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="292,141,414,95,416,100,293,146"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="314,161,375,167,375,173,314,166"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="545,177,605,177,605,183,545,183"/>
+<area shape="poly" id="edge13_Node000010_Node000002" title=" " alt="" coords="300,417,319,407,335,395,351,373,358,350,365,327,383,305,405,289,425,279,463,271,502,266,549,253,611,226,664,199,667,203,613,231,551,258,503,272,464,276,427,284,408,294,387,309,370,330,363,352,356,375,339,399,321,412,302,422"/>
+<area shape="poly" id="edge39_Node000010_Node000005" title=" " alt="" coords="259,418,314,306,350,244,383,203,389,199,392,203,387,207,355,247,319,308,264,420"/>
+<area shape="poly" id="edge24_Node000010_Node000008" title=" " alt="" coords="294,417,316,405,335,389,347,372,353,357,357,325,363,294,370,277,383,261,397,249,401,254,387,264,375,280,368,295,363,326,358,358,351,375,339,392,319,409,297,422"/>
+<area shape="poly" id="edge25_Node000010_Node000009" title=" " alt="" coords="319,445,385,456,516,470,632,478,631,483,515,475,385,461,319,450"/>
+<area shape="rect" id="Node000011" href="$classGame.html#a6d54497ce3a66f6dd45eacfdccc8d0bd" title="Draws the game." alt="" coords="422,572,514,599"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="276,445,437,561,434,565,273,449"/>
+<area shape="rect" id="Node000018" href="$classWindow.html#a2238e5489102fe2a77e7898a07dc37b5" title="Gets text input from the user." alt="" coords="406,319,529,345"/>
+<area shape="poly" id="edge22_Node000010_Node000018" title=" " alt="" coords="283,417,336,388,359,371,384,355,398,348,400,353,386,360,362,375,338,393,285,422"/>
+<area shape="rect" id="Node000019" href="$classMap.html#a2657d897204aaedba0e8e4f01b2e1efc" title="Loads the map from a file." alt="" coords="416,623,519,649"/>
+<area shape="poly" id="edge26_Node000010_Node000019" title=" " alt="" coords="268,445,339,540,360,578,370,593,387,608,403,618,400,623,383,613,366,596,356,580,335,543,264,449"/>
+<area shape="rect" id="Node000025" href="$classGame.html#a1290bdc979d75815efe4d21e83a806cb" title="Loads the object from the map." alt="" coords="401,420,534,447"/>
+<area shape="poly" id="edge32_Node000010_Node000025" title=" " alt="" coords="327,431,386,431,386,436,327,436"/>
+<area shape="rect" id="Node000028" href="$classLeaderboard.html#a43ac1b937341b8e5b3bd8b33200034d1" title="Loads the scores from a file." alt="" coords="385,369,550,396"/>
+<area shape="poly" id="edge36_Node000010_Node000028" title=" " alt="" coords="313,417,393,397,394,403,314,422"/>
+<area shape="poly" id="edge40_Node000010_Node000031" title=" " alt="" coords="270,445,303,486,339,540,353,575,358,605,366,632,387,659,391,663,388,667,383,663,361,634,353,606,348,576,335,542,299,489,266,449"/>
+<area shape="rect" id="Node000012" href="$classGamePhase.html#a337c0a04d2c1d159ff9a98e99e11116a" title="Returns the current level." alt="" coords="630,521,781,548"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="514,573,624,549,625,554,515,578"/>
+<area shape="rect" id="Node000013" href="$classGamePhase.html#a1e01dd9cbefce12ad832102c3a9ed3a2" title="Returns the number of remaining items." alt="" coords="598,572,813,599"/>
+<area shape="poly" id="edge16_Node000011_Node000013" title=" " alt="" coords="514,583,583,583,583,588,514,588"/>
+<area shape="rect" id="Node000014" href="$classWindow.html#aaa279ff498c917ba2535b26e5f396c7c" title="Prints character at given position, default color." alt="" coords="634,623,777,649"/>
+<area shape="poly" id="edge17_Node000011_Node000014" title=" " alt="" coords="515,592,625,616,624,621,514,598"/>
+<area shape="rect" id="Node000015" href="$classWindow.html#a7f8803b32163553cf314fa01b703c9a8" title="Prints the game UI." alt="" coords="648,673,763,700"/>
+<area shape="poly" id="edge18_Node000011_Node000015" title=" " alt="" coords="515,592,552,608,567,621,576,635,585,647,600,659,634,673,632,678,597,664,581,651,572,638,563,625,549,613,513,597"/>
+<area shape="rect" id="Node000017" href="$classWindow.html#a3c38bfdaf7cb6ebcfdbcb40916a72bf7" title="Refreshes the current window." alt="" coords="863,699,1003,725"/>
+<area shape="poly" id="edge21_Node000011_Node000017" title=" " alt="" coords="515,590,534,597,552,609,564,622,570,636,575,663,581,688,588,699,600,710,632,726,667,737,703,743,740,744,811,739,872,727,873,732,811,744,740,750,702,748,666,742,630,731,597,714,584,703,576,690,570,664,565,637,559,625,549,613,532,602,513,595"/>
+<area shape="rect" id="Node000016" href="$classWindow.html#aad6d9b11314512a7fbc775a3fef9ca1c" title="Helper function for printing lives." alt="" coords="867,648,999,675"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="763,678,851,668,851,673,764,683"/>
+<area shape="poly" id="edge20_Node000015_Node000017" title=" " alt="" coords="764,690,848,700,848,705,763,696"/>
+<area shape="poly" id="edge23_Node000018_Node000002" title=" " alt="" coords="512,316,549,298,573,277,597,254,669,200,673,204,600,258,577,281,552,302,514,320"/>
+<area shape="rect" id="Node000020" href="$classMap.html#ab1c2595a555457c0a764a0530b57c0f9" title="Helper function for validating map string." alt="" coords="643,775,768,801"/>
+<area shape="poly" id="edge27_Node000019_Node000020" title=" " alt="" coords="521,643,552,659,570,683,577,708,583,731,600,754,629,771,627,775,597,758,578,734,572,709,566,686,549,663,519,647"/>
+<area shape="rect" id="Node000021" href="$classMap.html#a41b623a0d503b94bf8412ca06296ae1f" title="Helper function for finding crossroads." alt="" coords="862,749,1004,776"/>
+<area shape="poly" id="edge28_Node000020_Node000021" title=" " alt="" coords="769,778,846,769,847,775,769,784"/>
+<area shape="rect" id="Node000023" href="$classMap.html#ae96ad32d3b1600cd41e4a1c3b6a30906" title="Checks if the map is traversable from the given position." alt="" coords="861,800,1005,827"/>
+<area shape="poly" id="edge30_Node000020_Node000023" title=" " alt="" coords="769,792,845,801,845,806,769,798"/>
+<area shape="rect" id="Node000024" href="$classMap.html#ad35b3432f383ea258d0ed06fe937c3b9" title="Helper function for validating the map borders." alt="" coords="864,851,1002,877"/>
+<area shape="poly" id="edge31_Node000020_Node000024" title=" " alt="" coords="769,797,814,811,838,823,862,836,876,842,874,847,860,841,836,828,812,816,768,802"/>
+<area shape="rect" id="Node000022" href="$classMap.html#a7d8219ae1c1ff2f45f7e11c5d03dcdb7" title="Checks if given coordinates are a crossroad." alt="" coords="1053,749,1177,776"/>
+<area shape="poly" id="edge29_Node000021_Node000022" title=" " alt="" coords="1005,760,1038,760,1038,765,1005,765"/>
+<area shape="poly" id="edge35_Node000025_Node000009" title=" " alt="" coords="534,445,632,466,631,471,533,450"/>
+<area shape="rect" id="Node000026" href="$classGamePhase.html#a2597fc4aa3837ecc9146f29b18840855" title="Adds an item to the remaining items." alt="" coords="631,369,780,396"/>
+<area shape="poly" id="edge33_Node000025_Node000026" title=" " alt="" coords="533,417,624,397,625,402,534,422"/>
+<area shape="rect" id="Node000027" href="$classMap.html#a44f2313ac9b9ba0b93a664e87c440613" title="Gets the map." alt="" coords="657,420,754,447"/>
+<area shape="poly" id="edge34_Node000025_Node000027" title=" " alt="" coords="535,431,641,431,641,436,535,436"/>
+<area shape="rect" id="Node000029" href="$classLeaderboard.html#aaf22ea54d8b0e7e5d2bf5c3b9dcbdee2" title="Creates a save file." alt="" coords="622,319,789,345"/>
+<area shape="poly" id="edge37_Node000028_Node000029" title=" " alt="" coords="533,366,624,346,625,352,534,371"/>
+<area shape="rect" id="Node000030" href="$classLeaderboard.html#a9d9d83737bf8412fa71cb1c238c059f6" title="Reads a value from binary save file." alt="" coords="643,268,768,295"/>
+<area shape="poly" id="edge38_Node000028_Node000030" title=" " alt="" coords="525,366,549,355,563,343,572,330,581,317,597,304,627,291,629,296,600,309,585,321,576,333,567,346,552,359,528,371"/>
+<area shape="rect" id="Node000032" href="$classGamePhase.html#a097fcd119e1cce98533b731f7e6ae53d" title="Sets the time of the current phase." alt="" coords="613,825,798,852"/>
+<area shape="poly" id="edge41_Node000031_Node000032" title=" " alt="" coords="481,699,528,754,562,785,600,811,612,817,610,822,597,816,558,789,524,758,477,702"/>
+<area shape="poly" id="edge43_Node000033_Node000020" title=" " alt="" coords="318,622,339,634,356,653,363,673,371,692,387,710,445,742,508,763,571,776,628,783,627,788,570,782,507,769,442,747,383,714,366,695,358,675,351,656,335,638,316,627"/>
 </map>

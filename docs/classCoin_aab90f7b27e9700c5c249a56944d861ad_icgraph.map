@@ -1,4 +1,5 @@
 <map id="Coin::isAccessible" name="Coin::isAccessible">
-<area shape="rect" id="node1" title="Checks if the object is accessible." alt="" coords="212,5,351,32"/>
-<area shape="rect" id="node2" href="$classCoin.html#a2e1f5a93b04e40426688e649f7e68b4c" title="Checks if the object is accessible for the given object." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="Node000001" title="Checks if the object is accessible." alt="" coords="203,5,333,32"/>
+<area shape="rect" id="Node000002" href="$classCoin.html#a2e1f5a93b04e40426688e649f7e68b4c" title="Checks if the object is accessible for the given object." alt="" coords="5,5,155,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,21,155,21,155,16,187,16"/>
 </map>

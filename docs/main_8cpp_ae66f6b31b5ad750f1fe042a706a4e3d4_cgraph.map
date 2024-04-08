@@ -1,22 +1,45 @@
 <map id="main" name="main">
-<area shape="rect" id="node1" title=" " alt="" coords="5,183,60,209"/>
-<area shape="rect" id="node2" href="$classGameManager.html#a8460b2f4f44c19dd405e4163fe6cb5cf" title=" " alt="" coords="108,183,264,209"/>
-<area shape="rect" id="node3" href="$classWindow.html#a21910d98970e829ac1aa67db65a53476" title="Exits ncurses window." alt="" coords="360,5,467,32"/>
-<area shape="rect" id="node4" href="$classWindow.html#a56e7061bfcf6df5725b61e3f0399e865" title="Gets the user choice from the main menu." alt="" coords="340,107,487,133"/>
-<area shape="rect" id="node8" href="$classWindow.html#a2238e5489102fe2a77e7898a07dc37b5" title="Gets text input from the user." alt="" coords="847,259,982,285"/>
-<area shape="rect" id="node9" href="$classGameManager.html#a53965fe19bf3351541159ce74608844e" title=" " alt="" coords="312,157,515,184"/>
-<area shape="rect" id="node10" href="$classWindow.html#a4d8c7f316ef9e8a4488d00c430957c16" title="Initializes ncurses window." alt="" coords="362,208,465,235"/>
-<area shape="rect" id="node12" href="$classConfig.html#ab8b24da021cd9ad9ca092749292ca6ed" title="Loads the config from a file." alt="" coords="343,309,483,336"/>
-<area shape="rect" id="node14" href="$classMap.html#a2657d897204aaedba0e8e4f01b2e1efc" title="Loads the map from a file." alt="" coords="605,360,719,387"/>
-<area shape="rect" id="node20" href="$classWindow.html#aba37c5e32e43d21a46968fd8ada1d327" title="Prints the message to the current window." alt="" coords="830,81,999,108"/>
-<area shape="rect" id="node5" href="$classWindow.html#ac9718717327b190f444c9fe3955477a7" title="Creates the main menu window." alt="" coords="809,183,1020,209"/>
-<area shape="rect" id="node7" href="$classWindow.html#abde910f5e4b012211f4cd0425d0bece1" title="Draws the menu options." alt="" coords="563,107,761,133"/>
-<area shape="rect" id="node6" href="$classWindow.html#a07c2b4d065cbcb397eafc1a27a337bb7" title="Clears the current window." alt="" coords="1068,183,1255,209"/>
-<area shape="rect" id="node11" href="$classWindow.html#a4fbacbbec283653b5500f881c1f7cd7f" title="Draws the main menu." alt="" coords="587,208,737,235"/>
-<area shape="rect" id="node13" href="$classConfig.html#a62c7c2d485cb30374271dba0eafe63c8" title="Gets any value from the config map." alt="" coords="598,309,726,336"/>
-<area shape="rect" id="node15" href="$classMap.html#ab1c2595a555457c0a764a0530b57c0f9" title="Helper function for validating map string." alt="" coords="847,360,983,387"/>
-<area shape="rect" id="node16" href="$classMap.html#a41b623a0d503b94bf8412ca06296ae1f" title="Helper function for finding crossroads." alt="" coords="1084,360,1239,387"/>
-<area shape="rect" id="node18" href="$classMap.html#ae96ad32d3b1600cd41e4a1c3b6a30906" title="Checks if the map is traversable from the given position." alt="" coords="1083,411,1239,437"/>
-<area shape="rect" id="node19" href="$classMap.html#ad35b3432f383ea258d0ed06fe937c3b9" title="Helper function for validating the map borders." alt="" coords="1084,309,1239,336"/>
-<area shape="rect" id="node17" href="$classMap.html#a7d8219ae1c1ff2f45f7e11c5d03dcdb7" title="Checks if given coordinates are a crossroad." alt="" coords="1303,360,1437,387"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,183,55,209"/>
+<area shape="rect" id="Node000002" href="$classGameManager.html#a8460b2f4f44c19dd405e4163fe6cb5cf" title=" " alt="" coords="103,183,243,209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,193,87,193,87,199,55,199"/>
+<area shape="rect" id="Node000003" href="$classWindow.html#a21910d98970e829ac1aa67db65a53476" title="Exits ncurses window." alt="" coords="333,5,430,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,181,221,118,252,81,289,48,317,33,320,38,293,53,256,85,225,121,184,184"/>
+<area shape="rect" id="Node000004" href="$classWindow.html#a56e7061bfcf6df5725b61e3f0399e865" title="Gets the user choice from the main menu." alt="" coords="314,107,449,133"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="202,180,290,143,311,136,313,141,292,148,204,185"/>
+<area shape="rect" id="Node000008" href="$classWindow.html#a2238e5489102fe2a77e7898a07dc37b5" title="Gets text input from the user." alt="" coords="784,259,907,285"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="200,207,242,227,292,244,421,266,552,276,672,277,768,274,768,280,672,283,552,281,420,271,290,249,240,232,198,212"/>
+<area shape="rect" id="Node000009" href="$classGameManager.html#a53965fe19bf3351541159ce74608844e" title=" " alt="" coords="291,157,472,184"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="243,185,275,181,276,186,244,190"/>
+<area shape="rect" id="Node000010" href="$classWindow.html#a4d8c7f316ef9e8a4488d00c430957c16" title="Initializes ncurses window." alt="" coords="335,208,428,235"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="244,202,320,211,319,217,243,207"/>
+<area shape="rect" id="Node000012" href="$classConfig.html#ab8b24da021cd9ad9ca092749292ca6ed" title="Loads the config from a file." alt="" coords="317,309,446,336"/>
+<area shape="poly" id="edge13_Node000002_Node000012" title=" " alt="" coords="190,208,234,247,292,288,320,301,317,306,290,293,230,251,186,212"/>
+<area shape="rect" id="Node000014" href="$classMap.html#a2657d897204aaedba0e8e4f01b2e1efc" title="Loads the map from a file." alt="" coords="559,360,663,387"/>
+<area shape="poly" id="edge21_Node000002_Node000014" title=" " alt="" coords="182,208,197,239,221,277,253,315,292,346,323,360,355,370,422,381,487,384,544,380,544,386,487,389,422,387,354,375,321,365,290,350,249,319,216,280,192,241,177,211"/>
+<area shape="rect" id="Node000020" href="$classWindow.html#aba37c5e32e43d21a46968fd8ada1d327" title="Prints the message to the current window." alt="" coords="768,81,923,108"/>
+<area shape="poly" id="edge22_Node000002_Node000020" title=" " alt="" coords="183,180,225,134,256,110,290,92,352,73,417,61,482,55,547,54,668,61,766,75,765,81,667,67,547,59,483,61,418,67,353,79,292,97,258,115,229,138,186,184"/>
+<area shape="rect" id="Node000005" href="$classWindow.html#ac9718717327b190f444c9fe3955477a7" title="Creates the main menu window." alt="" coords="750,183,941,209"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="450,130,521,143,736,177,735,182,520,148,450,135"/>
+<area shape="rect" id="Node000007" href="$classWindow.html#abde910f5e4b012211f4cd0425d0bece1" title="Draws the menu options." alt="" coords="520,107,702,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="450,117,505,117,505,123,450,123"/>
+<area shape="rect" id="Node000006" href="$classWindow.html#a07c2b4d065cbcb397eafc1a27a337bb7" title="Clears the current window." alt="" coords="989,183,1159,209"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="941,193,974,193,974,199,941,199"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="887,256,1016,212,1018,217,889,261"/>
+<area shape="rect" id="Node000011" href="$classWindow.html#a4fbacbbec283653b5500f881c1f7cd7f" title="Draws the main menu." alt="" coords="543,208,679,235"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="429,219,527,219,527,224,429,224"/>
+<area shape="poly" id="edge12_Node000011_Node000005" title=" " alt="" coords="679,211,734,205,734,211,680,217"/>
+<area shape="rect" id="Node000013" href="$classConfig.html#a62c7c2d485cb30374271dba0eafe63c8" title="Gets any value from the config map." alt="" coords="552,309,670,336"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="447,320,537,320,537,325,447,325"/>
+<area shape="poly" id="edge15_Node000012_Node000014" title=" " alt="" coords="446,334,545,356,543,361,445,339"/>
+<area shape="rect" id="Node000015" href="$classMap.html#ab1c2595a555457c0a764a0530b57c0f9" title="Helper function for validating map string." alt="" coords="783,360,908,387"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="663,371,767,371,767,376,663,376"/>
+<area shape="rect" id="Node000016" href="$classMap.html#a41b623a0d503b94bf8412ca06296ae1f" title="Helper function for finding crossroads." alt="" coords="1003,360,1145,387"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="908,371,988,371,988,376,908,376"/>
+<area shape="rect" id="Node000018" href="$classMap.html#ae96ad32d3b1600cd41e4a1c3b6a30906" title="Checks if the map is traversable from the given position." alt="" coords="1002,411,1146,437"/>
+<area shape="poly" id="edge19_Node000015_Node000018" title=" " alt="" coords="909,385,996,404,995,409,908,390"/>
+<area shape="rect" id="Node000019" href="$classMap.html#ad35b3432f383ea258d0ed06fe937c3b9" title="Helper function for validating the map borders." alt="" coords="1006,309,1143,336"/>
+<area shape="poly" id="edge20_Node000015_Node000019" title=" " alt="" coords="908,357,995,337,996,343,909,362"/>
+<area shape="rect" id="Node000017" href="$classMap.html#a7d8219ae1c1ff2f45f7e11c5d03dcdb7" title="Checks if given coordinates are a crossroad." alt="" coords="1207,360,1332,387"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="1146,371,1192,371,1192,376,1146,376"/>
+<area shape="poly" id="edge23_Node000020_Node000006" title=" " alt="" coords="879,106,1029,174,1027,178,877,111"/>
 </map>

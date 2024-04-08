@@ -1,6 +1,9 @@
 <map id="ChaseBehavior::handleBehavior" name="ChaseBehavior::handleBehavior">
-<area shape="rect" id="node1" title="Handles the behavior of the enemy when changing the game phase." alt="" coords="5,56,236,83"/>
-<area shape="rect" id="node2" href="$classGameObject.html#a1e86160db20ef4c6ccadf5cfd05763bc" title="Resets the object color to default." alt="" coords="296,5,475,32"/>
-<area shape="rect" id="node3" href="$classMovingObject.html#a6866cb38b81682fc594939196117e2e3" title="Sets the invincibility of the object." alt="" coords="284,56,487,83"/>
-<area shape="rect" id="node4" href="$classMovingObject.html#a0fa9f24bfcb0d40d1af3ee26dedfa47d" title="Sets the speed of the object." alt="" coords="295,107,475,133"/>
+<area shape="rect" id="Node000001" title="Handles the behavior of the enemy when changing the game phase." alt="" coords="5,56,213,83"/>
+<area shape="rect" id="Node000002" href="$classGameObject.html#a1e86160db20ef4c6ccadf5cfd05763bc" title="Resets the object color to default." alt="" coords="271,5,433,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,53,269,33,270,38,177,58"/>
+<area shape="rect" id="Node000003" href="$classMovingObject.html#a6866cb38b81682fc594939196117e2e3" title="Sets the invincibility of the object." alt="" coords="261,56,443,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,67,245,67,245,72,213,72"/>
+<area shape="rect" id="Node000004" href="$classMovingObject.html#a0fa9f24bfcb0d40d1af3ee26dedfa47d" title="Sets the speed of the object." alt="" coords="270,107,434,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="177,81,270,100,269,106,176,86"/>
 </map>

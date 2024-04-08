@@ -1,5 +1,8 @@
 <map id="Leaderboard::addScore" name="Leaderboard::addScore">
-<area shape="rect" id="node1" title="Adds a score to the leaderboard." alt="" coords="309,31,480,57"/>
-<area shape="rect" id="node2" href="$classGame.html#aa2d938aa918268060e63980c7efd86f8" title="Ends the game." alt="" coords="168,5,261,32"/>
-<area shape="rect" id="node3" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="5,31,120,57"/>
+<area shape="rect" id="Node000001" title="Adds a score to the leaderboard." alt="" coords="290,31,445,57"/>
+<area shape="rect" id="Node000002" href="$classGame.html#aa2d938aa918268060e63980c7efd86f8" title="Ends the game." alt="" coords="157,5,242,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,33,242,28,243,22,275,27"/>
+<area shape="rect" id="Node000003" href="$classGame.html#aef7682b8bf084aac3c8f929a6fd2f673" title="Updates the game state." alt="" coords="5,31,109,57"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="274,47,109,47,109,41,274,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="141,32,110,37,109,32,141,26"/>
 </map>

@@ -1,6 +1,9 @@
 <map id="Window::drawMenuOptions" name="Window::drawMenuOptions">
-<area shape="rect" id="node1" title="Draws the menu options." alt="" coords="507,5,705,32"/>
-<area shape="rect" id="node2" href="$classWindow.html#a56e7061bfcf6df5725b61e3f0399e865" title="Gets the user choice from the main menu." alt="" coords="312,5,459,32"/>
-<area shape="rect" id="node3" href="$classGameManager.html#a8460b2f4f44c19dd405e4163fe6cb5cf" title=" " alt="" coords="108,5,264,32"/>
-<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,60,32"/>
+<area shape="rect" id="Node000001" title="Draws the menu options." alt="" coords="474,5,656,32"/>
+<area shape="rect" id="Node000002" href="$classWindow.html#a56e7061bfcf6df5725b61e3f0399e865" title="Gets the user choice from the main menu." alt="" coords="291,5,426,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="459,21,427,21,427,16,459,16"/>
+<area shape="rect" id="Node000003" href="$classGameManager.html#a8460b2f4f44c19dd405e4163fe6cb5cf" title=" " alt="" coords="103,5,243,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="276,21,244,21,244,16,276,16"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
 </map>
